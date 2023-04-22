@@ -1,0 +1,8409 @@
+.cnc-hero-section {
+  position: relative;
+  height: 85vh;
+  justify-content: center;
+  align-items: center;
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.39), rgba(0, 0, 0, 0.39)), url('../images/cnc-laser-cutting-of-metal-modern-industrial-tech-2021-08-26-23-00-53-utc.jpg');
+  background-position: 0px 0px, 100% 50%;
+  background-size: auto, cover;
+}
+
+.heri-section-div {
+  display: flex;
+  width: 100%;
+  height: 100%;
+  max-width: 1300px;
+  margin-right: auto;
+  margin-left: auto;
+  padding-top: 100px;
+  padding-right: 20px;
+  padding-left: 20px;
+  align-items: center;
+}
+
+.div-block-2 {
+  width: 71%;
+}
+
+.body {
+  font-family: 'PT Serif', serif;
+}
+
+.heading {
+  color: #f8981d;
+  font-size: 25px;
+}
+
+.heading-2 {
+  color: #fff;
+  font-size: 57px;
+  line-height: 75px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.div-block-3 {
+  display: flex;
+  width: 100%;
+}
+
+.div-block-4 {
+  display: none;
+  width: 48%;
+}
+
+.div-block-5 {
+  display: flex;
+  width: 100%;
+  margin-top: 10px;
+  flex-direction: row-reverse;
+  justify-content: flex-end;
+}
+
+.text-block {
+  margin-left: 20px;
+  color: #fff;
+  font-size: 21px;
+  line-height: 27px;
+}
+
+.text-block-2 {
+  font-family: 'Fa solid 900', sans-serif;
+  color: #f8981d;
+  font-size: 25px;
+  line-height: 30px;
+}
+
+.div-block-7 {
+  margin-top: 20px;
+}
+
+.button {
+  display: flex;
+  width: 230px;
+  height: 60px;
+  justify-content: center;
+  align-items: center;
+  background-color: #f8981d;
+  font-size: 17px;
+  line-height: 25px;
+}
+
+.button.navigaation-butn {
+  width: 157px;
+  height: 60px;
+  background-color: #f8981d;
+  font-family: 'PT Serif', serif;
+  text-transform: uppercase;
+}
+
+.button.navigaation-butn._1 {
+  width: 157px;
+}
+
+.button.navigaation-butn._1.w--current {
+  width: 157px;
+}
+
+.button.navigaation-butn.con {
+  width: 100%;
+  height: 50px;
+}
+
+.cnc-navigation {
+  position: fixed;
+  width: 100%;
+  padding: 20px;
+  background-color: transparent;
+}
+
+.container {
+  max-width: 1300px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navlink {
+  font-family: 'PT Serif', serif;
+  color: #fff;
+  font-size: 17px;
+  line-height: 25px;
+  font-weight: 700;
+}
+
+.navlink:hover {
+  color: #f8981d;
+}
+
+.navlink.w--current {
+  color: #f8981d;
+}
+
+.brand {
+  top: 15px;
+  width: 25%;
+}
+
+.nav-menu {
+  display: flex;
+}
+
+.cnc-about-page-section {
+  padding: 140px 20px 170px;
+}
+
+.cnc-about-page-section._1 {
+  padding-top: 70px;
+  padding-bottom: 100px;
+}
+
+.cnc-container {
+  max-width: 1300px;
+}
+
+.cnc-about-div {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.div-block-8 {
+  position: relative;
+  display: flex;
+  width: 48%;
+  align-items: center;
+}
+
+.div-block-9 {
+  width: 300px;
+  height: 250px;
+  margin-top: 0px;
+  background-image: url('../images/cutting-steel-with-a-laser-1.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.div-block-9.seconnd {
+  background-image: url('../images/worker-welding-exhaust-pipes-pieces-together-1024x1024.jpg');
+}
+
+.div-block-9.seconnd._1 {
+  overflow: hidden;
+  width: 230px;
+  height: 200px;
+  background-image: url('../images/laser-cutting-machine_1339-3306.jpg');
+}
+
+.image {
+  width: 100%;
+  height: 100%;
+}
+
+.div-block-10 {
+  width: 44%;
+}
+
+.div-block-11 {
+  overflow: hidden;
+  height: 430px;
+  margin-top: 0px;
+  background-image: url('../images/schma-8.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.div-block-12 {
+  position: absolute;
+  left: -15%;
+  top: auto;
+  right: auto;
+  bottom: -16%;
+  z-index: -1;
+  width: 250px;
+  height: 250px;
+  background-image: url('../images/oval-s50-1.png1.png');
+  background-position: 0px 0px;
+  background-size: cover;
+}
+
+.div-block-13 {
+  width: 48%;
+}
+
+.h-3 {
+  display: none;
+  margin-top: 0px;
+  margin-bottom: 10px;
+  font-family: 'PT Serif', serif;
+  font-size: 21px;
+  line-height: 25px;
+  font-weight: 600;
+  text-align: left;
+  text-transform: uppercase;
+}
+
+.paragraph-2 {
+  margin-bottom: 20px;
+  font-family: Lato, sans-serif;
+  font-size: 17px;
+  line-height: 25px;
+  font-weight: 400;
+  text-align: justify;
+}
+
+.div-block-312578 {
+  display: flex;
+  width: 85%;
+  margin-top: 20px;
+  justify-content: space-between;
+}
+
+.image-32445 {
+  filter: grayscale(100%);
+}
+
+.bold-text-306 {
+  color: #f4ab32;
+}
+
+.div-block-312579 {
+  margin-left: 10px;
+}
+
+.header-wrap {
+  text-align: left;
+}
+
+.div-block-312525 {
+  width: 75px;
+  margin-left: 40px;
+}
+
+.header-box {
+  align-items: center;
+  color: #000;
+}
+
+.heading-7227 {
+  display: flex;
+  margin-top: 10px;
+  align-items: center;
+  font-family: 'PT Serif', serif;
+  color: #f3b05b;
+  font-size: 30px;
+  line-height: 40px;
+  font-weight: 400;
+  text-align: left;
+  text-transform: uppercase;
+}
+
+.text-block-15592 {
+  font-family: 'PT Serif', serif;
+  font-size: 21px;
+  line-height: 30px;
+}
+
+.text-span-2 {
+  font-size: 50px;
+}
+
+.text-block-15591 {
+  font-family: 'Fa solid 900', sans-serif;
+  color: #fff;
+  font-size: 21px;
+  line-height: 25px;
+}
+
+.div-block-312516 {
+  width: 48%;
+  padding-top: 20px;
+}
+
+.div-block-312580 {
+  display: flex;
+  width: 48%;
+}
+
+.div-block-312582 {
+  display: flex;
+}
+
+.heading-7228 {
+  color: #f3b05b;
+  font-size: 30px;
+  line-height: 40px;
+  text-transform: uppercase;
+}
+
+.heading-7228.c1 {
+  color: #fff;
+}
+
+.bold-text-307 {
+  color: #f8981d;
+}
+
+.div-block-312583 {
+  display: flex;
+  width: 25px;
+  height: 25px;
+  justify-content: center;
+  align-items: center;
+  background-color: #f3b05b;
+}
+
+.div-block-312584 {
+  margin-top: 25px;
+}
+
+.div-block-312584.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.cnc-feature-section {
+  padding: 60px 20px 200px;
+  background-image: url('../images/builderon-img25.png');
+  background-position: 0px 0px;
+  background-size: auto;
+  background-repeat: no-repeat;
+}
+
+.div-block-312585 {
+  width: 100%;
+}
+
+.div-block-312530 {
+  display: flex;
+  margin-bottom: 40px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.div-block-312530.bottom {
+  margin-bottom: 0px;
+}
+
+.h-3-2 {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-family: 'PT Serif', serif;
+  color: #f8981d;
+  font-size: 21px;
+  line-height: 25px;
+  font-weight: 600;
+  text-align: left;
+  text-transform: uppercase;
+}
+
+.h-3-2.hide1 {
+  display: none;
+}
+
+.heading-7230 {
+  margin-top: 0px;
+  font-family: Lato, sans-serif;
+  color: #f4ab32;
+  line-height: 50px;
+}
+
+.paragraph-2202 {
+  max-width: 450px;
+  color: #000;
+  font-size: 17px;
+  line-height: 25px;
+}
+
+.paragraph-2202._2 {
+  max-width: 700px;
+  font-family: Lato, sans-serif;
+  color: #000;
+}
+
+.paragraph-2202._2.hide1 {
+  display: none;
+}
+
+.div-block-312586 {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+}
+
+.div-block-312587 {
+  position: relative;
+  width: 372px;
+  height: 350px;
+  background-image: url('../images/think-like-laser-5.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.div-block-312587:hover {
+  background-image: linear-gradient(180deg, rgba(248, 152, 29, 0.4), rgba(248, 152, 29, 0.4)), url('../images/think-like-laser-5.jpg');
+  background-position: 0px 0px, 50% 50%;
+  background-size: auto, cover;
+}
+
+.div-block-312587.second1 {
+  top: 123px;
+  height: 350px;
+  background-image: url('../images/maxresdefault-15.jpg');
+}
+
+.div-block-312587.second1:hover {
+  background-image: linear-gradient(180deg, rgba(248, 152, 29, 0.4), rgba(248, 152, 29, 0.4)), url('../images/maxresdefault-15.jpg');
+  background-position: 0px 0px, 50% 50%;
+  background-size: auto, cover;
+}
+
+.div-block-312587.thrd {
+  height: 350px;
+  background-image: url('../images/Cutting_Head-min.jpg');
+}
+
+.div-block-312587.thrd:hover {
+  background-image: linear-gradient(180deg, rgba(248, 152, 29, 0.4), rgba(248, 152, 29, 0.4)), url('../images/Cutting_Head-min.jpg');
+  background-position: 0px 0px, 50% 50%;
+  background-size: auto, cover;
+}
+
+.div-block-312529 {
+  position: absolute;
+  left: 23px;
+  top: 233.047px;
+  width: 87%;
+  height: 250px;
+  padding: 20px;
+  border-bottom: 3px solid #f8981d;
+  border-radius: 0px;
+  background-color: #fff;
+}
+
+.div-block-312529:hover {
+  border-bottom-color: #000;
+}
+
+.div-block-312529.top {
+  top: -121.953px;
+  height: 250px;
+  border-top: 3px solid #f8981d;
+  border-bottom-style: none;
+}
+
+.div-block-312529.top:hover {
+  border-top-color: #000;
+  border-bottom-style: none;
+}
+
+.div-block-312604 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.image-32592 {
+  width: 50px;
+}
+
+.text-block-15479 {
+  margin-left: 10px;
+  color: #f3b05b;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.paragraph-2201 {
+  margin-top: 10px;
+  font-family: Lato, sans-serif;
+  color: #333;
+  font-size: 17px;
+  line-height: 25px;
+  text-align: center;
+}
+
+.cnc-hero-section2 {
+  height: 200px;
+  padding: 40px 20px 0px;
+}
+
+.div-block-312605 {
+  display: flex;
+  width: 100%;
+  flex-direction: row-reverse;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.div-block-312606 {
+  position: relative;
+  left: -80px;
+  z-index: 1;
+  display: flex;
+  width: 58%;
+}
+
+.div-block-312606.archivements {
+  width: 100%;
+}
+
+.div-block-312607 {
+  width: 30%;
+  margin-left: 10px;
+  padding-bottom: 20px;
+  background-color: #fff;
+  box-shadow: 14px 0 20px -5px #cfcece;
+}
+
+.heading-7231 {
+  color: #f8981d;
+  font-size: 50px;
+  line-height: 60px;
+  text-align: center;
+}
+
+.text-block-15593 {
+  font-size: 21px;
+  line-height: 25px;
+  text-align: center;
+}
+
+.div-block-312608 {
+  position: relative;
+  top: -226px;
+  display: none;
+  width: 55%;
+  justify-content: flex-end;
+}
+
+.div-block-312609 {
+  width: 48%;
+  height: 375px;
+  padding-top: 20px;
+  padding-right: 20px;
+  padding-left: 20px;
+  background-color: #f8981d;
+}
+
+.div-block-312609.two {
+  display: flex;
+  flex-direction: column;
+  background-color: #000;
+}
+
+.heading-7232 {
+  color: #fff;
+  font-size: 21px;
+}
+
+.paragraph-2203 {
+  font-family: Lato, sans-serif;
+  color: #fff;
+  font-size: 17px;
+  line-height: 25px;
+}
+
+.cnc-video-section {
+  padding: 100px 20px;
+  background-color: #ebebeb;
+  background-image: url('../images/BIOKAMINO-BRUCIATORI-SLIDER.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.cnc-video-div {
+  display: flex;
+  width: 100%;
+}
+
+.div-block-312610 {
+  display: flex;
+  width: 50%;
+  height: 450px;
+  justify-content: center;
+  align-items: center;
+  background-color: #f8981d;
+}
+
+.heading-7233 {
+  padding-right: 40px;
+  padding-left: 40px;
+  color: #fff;
+  font-size: 40px;
+  line-height: 50px;
+  text-align: center;
+}
+
+.div-block-312611 {
+  width: 50%;
+}
+
+.background-video {
+  z-index: 1;
+  height: 100%;
+}
+
+.right-down {
+  position: absolute;
+  left: -31px;
+  top: auto;
+  right: auto;
+  bottom: 0%;
+  width: auto;
+  height: 3px;
+  margin-bottom: 0px;
+  border-style: none;
+  border-width: 1px;
+  border-color: #fff;
+  background-color: #0082fc;
+  background-image: linear-gradient(60deg, #f8981d, #a3826c);
+}
+
+.gallery-animation-all-over {
+  width: 80%;
+  border-top-left-radius: 30%;
+  border-bottom-right-radius: 30%;
+}
+
+.gallery-animation-all-over.image-animation {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  right: 0%;
+  bottom: 0%;
+  z-index: 0;
+  width: 100%;
+  border-top-left-radius: 0px;
+  border-bottom-right-radius: 0px;
+}
+
+.card-2 {
+  display: flex;
+  height: 100%;
+  padding: 20px 5%;
+  flex-direction: column;
+  justify-content: space-between;
+  border: 1px solid transparent;
+  border-radius: 10px;
+  background-color: #fff;
+  box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.06);
+  transition: transform 150ms ease, box-shadow 150ms ease;
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.card-2:hover {
+  border-style: none;
+  border-color: #153142;
+  box-shadow: 0 6px 15px 0 rgba(0, 0, 0, 0.09);
+  transform: none;
+}
+
+.card-2.c1 {
+  width: 100%;
+  padding-top: 30px;
+  padding-left: 20px;
+  background-color: #fff;
+  box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.06);
+  transition: none 0ms ease;
+}
+
+.card-2.c1.center {
+  background-color: #fff;
+}
+
+.card-2.c1.center:hover {
+  border-style: none;
+  transform: none;
+}
+
+.card-2.c1.center.z {
+  width: 31%;
+  height: 370px;
+  padding-top: 20px;
+  padding-left: 20px;
+}
+
+.card-2.c1.z._1 {
+  width: 47%;
+  padding-top: 20px;
+  border-style: none;
+}
+
+.card-2.z {
+  position: relative;
+  width: 31%;
+  height: 370px;
+  padding-right: 20px;
+  padding-left: 20px;
+  border-style: none;
+}
+
+.left-down {
+  position: absolute;
+  left: auto;
+  top: 2%;
+  right: 0px;
+  bottom: 0%;
+  width: 3px;
+  height: 230px;
+  margin-left: 0px;
+  border-style: none;
+  border-width: 1px;
+  border-color: #fff;
+  background-color: #0082fc;
+  background-image: linear-gradient(325deg, #f8981d, #a3826c);
+}
+
+.lottie-animation-8 {
+  width: 447px;
+  height: 462px;
+}
+
+.body-2 {
+  color: #fff;
+  font-size: 18px;
+  line-height: 1.4;
+  font-weight: 400;
+}
+
+.body-2.bottom-margin-30 {
+  margin-bottom: 30px;
+  font-family: Montserrat, sans-serif;
+  color: #333;
+  font-size: 17px;
+  line-height: 25px;
+  text-align: justify;
+}
+
+.container-1287 {
+  max-width: 1300px;
+}
+
+.container-1287._1 {
+  position: relative;
+  z-index: 5;
+}
+
+.text-button {
+  display: flex;
+  overflow: hidden;
+  margin-top: 10px;
+  align-items: center;
+  flex: 0 auto;
+  color: #51a646;
+  font-size: 17px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+.text-button:hover {
+  color: #79be44;
+}
+
+.left-up {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  right: 0%;
+  bottom: auto;
+  width: auto;
+  height: 3px;
+  margin-top: 0px;
+  border-style: none;
+  border-width: 1px;
+  border-color: #fff;
+  background-image: linear-gradient(276deg, #f8981d, #a3826c);
+}
+
+.card-slide-2 {
+  width: 33.33333333%;
+  height: 375px;
+  margin-top: 30px;
+  margin-bottom: 0%;
+  padding-right: 1.5%;
+  padding-left: 1.5%;
+  flex-wrap: wrap;
+  align-items: stretch;
+}
+
+.section-230 {
+  position: relative;
+  overflow: hidden;
+  padding: 60px 20px;
+  background-color: #f6f8fa;
+}
+
+.testimonial-text {
+  overflow: hidden;
+  width: 50%;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+}
+
+.p-card-2 {
+  max-width: 350px;
+  margin-top: 20px;
+  font-family: Montserrat, sans-serif;
+  font-size: 17px;
+  line-height: 25px;
+  text-align: left;
+}
+
+.p-card-2.center {
+  max-width: 350px;
+  font-family: Montserrat, sans-serif;
+  color: #000;
+  line-height: 25px;
+  font-weight: 400;
+}
+
+.right-up {
+  position: absolute;
+  left: auto;
+  top: -7.3%;
+  right: auto;
+  bottom: 0px;
+  width: 3px;
+  margin-right: 0px;
+  border-style: none;
+  border-width: 1px;
+  border-color: #fff;
+  background-color: #0082fc;
+  background-image: linear-gradient(180deg, #f8981d, #a3826c);
+}
+
+.text-block-15440 {
+  color: #35363a;
+}
+
+.card-content-wrapper {
+  position: relative;
+  max-width: 370px;
+}
+
+.card-content-wrapper:hover {
+  position: static;
+  max-width: 370px;
+}
+
+.div-block-312340 {
+  position: absolute;
+  left: -7%;
+  top: 53%;
+  bottom: auto;
+  display: none;
+  justify-content: center;
+  align-items: center;
+}
+
+.div-block-312342 {
+  display: flex;
+  width: 75px;
+  height: 75px;
+  justify-content: center;
+  align-items: center;
+  border-radius: 100px;
+  background-color: #f8981d;
+}
+
+.heading-1 {
+  font-family: 'PT Serif', serif;
+  color: #000;
+  font-size: 40px;
+  line-height: 45px;
+  font-weight: 700;
+}
+
+.bold-text-247 {
+  color: #000;
+  font-size: 18px;
+}
+
+.bold-text-247.center {
+  color: #000;
+}
+
+.card-slider-mask {
+  display: flex;
+  overflow: hidden;
+  margin-top: 0px;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.card-slider-2 {
+  display: none;
+  height: auto;
+  background-color: transparent;
+}
+
+.text-block-15475 {
+  font-size: 18px;
+  line-height: 25px;
+  font-weight: 600;
+}
+
+.cnc-service-section {
+  position: relative;
+  z-index: 5;
+  overflow: hidden;
+  padding: 40px 20px 60px;
+  background-color: #ebebeb;
+  background-image: url('../images/oval-s50-1.png1.png');
+  background-position: 121% -63%;
+  background-size: auto;
+  background-repeat: no-repeat;
+}
+
+.image-32593 {
+  width: 50px;
+}
+
+.cnc-testimonial-section {
+  padding: 60px 20px 140px;
+}
+
+.div-block-312612 {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+}
+
+.div-block-312613 {
+  width: 100%;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.div-block-312614 {
+  display: flex;
+  width: 100%;
+  padding-left: 20px;
+  justify-content: space-between;
+}
+
+.left-arrow-3 {
+  left: -5%;
+  top: auto;
+  right: 0%;
+  bottom: -5%;
+  display: block;
+  width: 50px;
+  height: 50px;
+  background-color: #f3b05b;
+  color: #005c64;
+  font-size: 25px;
+  font-weight: 700;
+}
+
+.image-32398 {
+  margin-right: 5px;
+  margin-left: 5px;
+}
+
+.mask-2 {
+  overflow: hidden;
+  padding-top: 20px;
+  padding-right: 0px;
+  padding-left: 0px;
+}
+
+.paragraph-189 {
+  margin-top: 40px;
+  font-family: Lato, sans-serif;
+  font-size: 17px;
+  line-height: 25px;
+  text-align: center;
+}
+
+.div-block-30767 {
+  display: flex;
+  margin-top: 20px;
+  justify-content: center;
+  align-items: center;
+}
+
+.div-block-312615 {
+  display: flex;
+  width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+  padding-left: 10px;
+  justify-content: space-between;
+}
+
+.slide-nav-4 {
+  top: 285px;
+  display: none;
+}
+
+.text-block-223 {
+  display: none;
+  color: #f3b05b;
+  font-size: 18px;
+  font-weight: 800;
+  text-align: center;
+}
+
+.icon-17 {
+  color: #fff;
+  font-weight: 700;
+}
+
+.slide-18 {
+  width: 100%;
+  margin-left: 10px;
+}
+
+.icon-16 {
+  color: #fff;
+  font-size: 25px;
+  font-weight: 700;
+}
+
+.right-arrow-3 {
+  left: 5%;
+  top: auto;
+  right: 0%;
+  bottom: -5%;
+  display: block;
+  width: 50px;
+  height: 50px;
+  background-color: #f3b05b;
+}
+
+.div-block-30765 {
+  width: 48%;
+  margin-top: 0px;
+  justify-content: flex-start;
+}
+
+.div-block-30765.left {
+  width: 48%;
+  justify-content: flex-start;
+}
+
+.image-32415 {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.slide-23 {
+  margin-left: 0px;
+}
+
+.div-block-30768 {
+  position: absolute;
+  left: -2%;
+  top: -4%;
+  right: auto;
+  bottom: auto;
+  width: 80px;
+  height: 80px;
+  border-radius: 10px;
+}
+
+.slider-8 {
+  height: 40vh;
+  max-width: 1200px;
+  background-color: transparent;
+}
+
+.slider-8.mobile-hide {
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: 0px;
+  align-items: center;
+}
+
+.div-block-30766 {
+  position: relative;
+  display: block;
+  width: 100%;
+  height: 250px;
+  padding: 20px 40px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 30px 10px 10px;
+  background-color: transparent;
+  background-image: linear-gradient(180deg, hsla(0, 0%, 100%, 0.9), hsla(0, 0%, 100%, 0.9)), url('../images/cnc-laser-cutting-of-metal-modern-industrial-tech-2022-02-02-04-49-08-utc-1.jpg');
+  background-position: 0px 0px, 50% 50%;
+  background-size: auto, cover;
+  box-shadow: 1px 1px 20px -12px #757474;
+}
+
+.div-block-312616 {
+  width: 48%;
+  background-image: url('../images/cutting-steel-with-a-laser-1-.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.image-32594 {
+  position: relative;
+  opacity: 1;
+}
+
+.image-32595 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  right: 0%;
+  bottom: 0%;
+  opacity: 0;
+}
+
+.line-separator {
+  width: 100%;
+  height: 1px;
+  margin-top: 10px;
+  background-color: #fff;
+}
+
+.text-block-15126 {
+  color: #fff;
+  font-size: 18px;
+  text-align: center;
+}
+
+.text-block-15126:hover {
+  color: #f8981d;
+}
+
+.list-footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  color: #fff;
+}
+
+.text-block-15513 {
+  width: 129.828125px;
+}
+
+.text-block-15145 {
+  font-family: 'Fa brands 400', sans-serif;
+  color: #e81e2a;
+  font-size: 18px;
+}
+
+.text-block-15145._1 {
+  color: #fff;
+}
+
+.text-block-15583 {
+  width: 100%;
+  font-family: Lato, sans-serif;
+}
+
+.list-gmail-link {
+  margin-bottom: 15px;
+  justify-content: center;
+  align-items: center;
+}
+
+.div-block-30374 {
+  display: flex;
+  width: 27%;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.link-block-54 {
+  width: 50%;
+}
+
+.link-block-54.w--current {
+  width: 40%;
+}
+
+.div-block-31305 {
+  width: 18%;
+}
+
+.text-block-15588 {
+  width: 100px;
+}
+
+.footer-heading-8 {
+  margin-top: 0px;
+  margin-bottom: 20px;
+  font-family: Montserrat, sans-serif;
+  font-size: 18px;
+  line-height: 1.5;
+  font-weight: 600;
+}
+
+.footer-heading-8.moovit {
+  margin-bottom: 20px;
+  font-family: Lato, sans-serif;
+  color: #f3b05b;
+  font-size: 20px;
+  font-weight: 500;
+  text-transform: uppercase;
+}
+
+.link-139 {
+  color: #fff;
+  font-size: 17px;
+  text-decoration: none;
+}
+
+.copyright-div {
+  display: flex;
+  margin-top: 20px;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.gallery-div {
+  display: flex;
+  justify-content: center;
+}
+
+.link-block-62 {
+  width: 25%;
+  text-decoration: none;
+}
+
+.div-block-30376 {
+  display: flex;
+  width: 100%;
+  margin-top: 0px;
+  flex-direction: column;
+}
+
+.link-block-66 {
+  position: absolute;
+  left: auto;
+  top: auto;
+  right: 2%;
+  bottom: 19%;
+  z-index: 1;
+  display: flex;
+  width: 50px;
+  height: 50px;
+  justify-content: center;
+  align-items: center;
+  border-radius: 100%;
+  background-color: #f3b05b;
+  text-decoration: none;
+}
+
+.link-block-66.w--current {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+}
+
+.text-block-15590 {
+  width: 151px;
+}
+
+.fist-iamge {
+  width: 130px;
+  height: 130px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  background-image: url('../images/6a597d54834e2b83887a19918e1d8cdb.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.fist-iamge:hover {
+  background-image: url('../images/6a597d54834e2b83887a19918e1d8cdb.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.fist-iamge._1 {
+  background-image: url('../images/advantages-of-fiber-laser-cutting.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.fist-iamge._1:hover {
+  background-image: url('../images/advantages-of-fiber-laser-cutting.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.fist-iamge._3 {
+  background-image: url('../images/kit.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.fist-iamge._3:hover {
+  background-image: url('../images/kit.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.fist-iamge._2 {
+  background-image: url('../images/think-like-laser-5.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.fist-iamge._2:hover {
+  background-image: url('../images/think-like-laser-5.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.text-block-15582 {
+  width: 0px;
+}
+
+.text-block-15586 {
+  width: 30px;
+}
+
+.div-block-312400 {
+  display: flex;
+  margin-bottom: 10px;
+  flex-direction: row;
+  align-items: center;
+}
+
+.heading-21 {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  color: #fff;
+  font-size: 20px;
+  line-height: 28px;
+}
+
+.icon-gmail {
+  margin-right: 10px;
+}
+
+.link-block-56 {
+  text-decoration: none;
+}
+
+.image-32586 {
+  width: 100%;
+}
+
+.div-gmail {
+  display: flex;
+  margin-bottom: 0px;
+  flex-direction: row;
+  align-items: center;
+}
+
+.link-block-47 {
+  display: block;
+  width: auto;
+  height: auto;
+  margin-left: 0px;
+  text-decoration: none;
+}
+
+.heading-23 {
+  text-decoration: none;
+}
+
+.heading-23:hover {
+  color: #f8981d;
+}
+
+.footer-flex-container-7 {
+  display: flex;
+  width: 100%;
+  margin-top: 0px;
+  margin-bottom: 30px;
+  justify-content: space-between;
+  text-align: left;
+}
+
+.footer-container {
+  max-width: 1200px;
+  padding-right: 0px;
+  padding-left: 0px;
+}
+
+.div-block-30901 {
+  display: flex;
+  margin-top: 20px;
+  justify-content: flex-start;
+}
+
+.div-block-30902 {
+  display: flex;
+  width: 40px;
+  height: 40px;
+  margin-right: 0px;
+  margin-left: 10px;
+  justify-content: center;
+  align-items: center;
+  border-radius: 100%;
+  background-color: #f8981d;
+}
+
+.div-block-30902.f {
+  margin-left: 0px;
+  border-radius: 100%;
+  background-color: #f8981d;
+}
+
+.div-block-30902.twitter {
+  margin-left: 10px;
+  border-radius: 100%;
+  background-color: #ffd49c;
+}
+
+.div-block-30902.inst {
+  margin-left: 10px;
+  border-radius: 100%;
+  background-color: #f8981d;
+  background-image: none;
+}
+
+.div-block-30902.twitter {
+  margin-left: 10px;
+  border-radius: 100%;
+  background-color: #00cde5;
+}
+
+.div-block-30902.inst {
+  margin-left: 10px;
+  border-radius: 100%;
+  background-color: #00cde5;
+  background-image: none;
+}
+
+.div-block-30902.f {
+  margin-left: 0px;
+  border-radius: 100%;
+  background-color: #00cde5;
+}
+
+.main-link-phone {
+  width: 100%;
+  color: #fff;
+  text-decoration: none;
+}
+
+.phone-div {
+  display: flex;
+  width: 74%;
+  margin-bottom: 0px;
+  flex-direction: row-reverse;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.text-block-15584 {
+  width: 30%;
+}
+
+.link-block-55 {
+  display: none;
+  width: 50%;
+  text-decoration: none;
+}
+
+.heading-34 {
+  font-family: Lato, sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  text-decoration: none;
+  text-transform: capitalize;
+}
+
+.image-32406 {
+  width: 100%;
+  height: 100%;
+  border-radius: 10px;
+}
+
+.content-gmail-p {
+  font-family: Lato, sans-serif;
+  color: #fff;
+  font-size: 17px;
+  line-height: 25px;
+  font-weight: 400;
+}
+
+.div-block-312574 {
+  display: flex;
+  flex-direction: column;
+}
+
+.content-phone-p {
+  padding-left: 10px;
+  color: #fff;
+  font-size: 17px;
+  line-height: 25px;
+}
+
+.cnc-footer-section {
+  position: relative;
+  padding: 100px 20px 40px;
+  border-bottom: 1px solid #e4ebf3;
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('../images/black-background.jpg');
+  background-position: 0px 0px, 50% 50%;
+  background-size: auto, cover;
+}
+
+.list-phone-link {
+  width: 100%;
+}
+
+.text-block-15438 {
+  font-family: 'Fa solid 900', sans-serif;
+  color: #e81e2a;
+  font-size: 25px;
+  line-height: 25px;
+}
+
+.text-block-15587 {
+  width: 19%;
+}
+
+.text-block-15599 {
+  font-family: 'Fa solid 900', sans-serif;
+  color: #fff;
+  font-size: 25px;
+  line-height: 30px;
+}
+
+.bold-text-328 {
+  font-weight: 400;
+}
+
+.paragraph-2204 {
+  font-family: Lato, sans-serif;
+  color: #fff;
+  font-size: 17px;
+  line-height: 25px;
+}
+
+.paragraph-2204:hover {
+  color: #f8981d;
+}
+
+.div-block-312617 {
+  position: absolute;
+  left: 0%;
+  top: -15%;
+  right: 0%;
+  bottom: auto;
+  display: flex;
+  height: 150px;
+  max-width: 1300px;
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: 20px;
+  padding-left: 20px;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #f8981d;
+  background-image: none;
+  background-position: 0px 0px;
+}
+
+.div-block-312618 {
+  width: 21%;
+}
+
+.div-block-312619 {
+  display: flex;
+  width: 80%;
+  padding-left: 20px;
+  justify-content: space-between;
+}
+
+.link-block-67 {
+  display: flex;
+  padding: 10px;
+  justify-content: center;
+  align-items: center;
+  background-color: #000;
+}
+
+.div-block-312620 {
+  width: 100%;
+}
+
+.div-block-312620.left1 {
+  width: 30%;
+}
+
+.div-block-312621 {
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.text-block-15600 {
+  font-family: 'Fa solid 900', sans-serif;
+  color: #fff;
+  font-size: 25px;
+  line-height: 30px;
+}
+
+.text-block-15601 {
+  margin-left: 20px;
+  font-family: 'PT Serif', serif;
+  color: #000;
+  font-size: 17px;
+  line-height: 25px;
+  font-weight: 700;
+}
+
+.text-block-15601.left {
+  margin-left: 10px;
+}
+
+.div-block-312622 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.div-block-312622.left {
+  align-items: center;
+}
+
+.text-block-15602 {
+  padding-left: 10px;
+  color: #000;
+  font-size: 17px;
+  line-height: 25px;
+  font-weight: 400;
+  text-align: center;
+}
+
+.div-block-312623 {
+  display: flex;
+  width: 50px;
+  height: 50px;
+  justify-content: center;
+  align-items: center;
+  border-radius: 100%;
+  background-color: #f3b05b;
+}
+
+.link-block-68 {
+  width: 30%;
+  flex-direction: column;
+  text-decoration: none;
+}
+
+.link-block-68.center {
+  width: 30%;
+}
+
+.link-block-68.left {
+  width: 35%;
+}
+
+.cnc-bredcrumb-section {
+  height: 40vh;
+  justify-content: center;
+  align-items: center;
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../images/hero-11.jpg');
+  background-position: 0px 0px, 50% 50%;
+  background-size: auto, cover;
+}
+
+.cnc-bredcrumb-section.about {
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../images/maxresdefault-12.jpg');
+  background-position: 0px 0px, 50% 50%;
+  background-size: auto, cover;
+}
+
+.cnc-bredcrumb-section.contact {
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../images/i-19.webp');
+  background-position: 0px 0px, 50% 50%;
+  background-size: auto, cover;
+}
+
+.cnc-bredcrumb-section.lser {
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../images/shutterstock_251390602_syks8m-1.webp');
+  background-position: 0px 0px, 50% 50%;
+  background-size: auto, cover;
+}
+
+.cnc-bredcrumb-section.wood {
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../images/wood.jpg');
+  background-position: 0px 0px, 50% 50%;
+  background-size: auto, cover;
+}
+
+.cnc-bredcrumb-section.acrylic {
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../images/Acrylic-laser-cutting-1024x575-2.jpg');
+  background-position: 0px 0px, 50% 50%;
+  background-size: auto, cover;
+}
+
+.cnc-bredcrumb-section.prototypes {
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../images/prototype-2.jpg');
+  background-position: 0px 0px, 50% 50%;
+  background-size: auto, cover;
+}
+
+.cnc-bredcrumb-section.metal {
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../images/432408952-e1561442604446.jpg');
+  background-position: 0px 0px, 50% 50%;
+  background-size: auto, cover;
+}
+
+.cnc-bredcrumb-section.industry {
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../images/Elevator-without-rope.jpg');
+  background-position: 0px 0px, 50% 50%;
+  background-size: auto, cover;
+}
+
+.cnc-bredcrumb-section.stone-laser {
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../images/Stone-Laser-Engraving-Machine_1.jpg');
+  background-position: 0px 0px, 50% 50%;
+  background-size: auto, cover;
+}
+
+.div-block-312624 {
+  width: 100%;
+  max-width: 1300px;
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+}
+
+.div-block-312625 {
+  display: flex;
+  width: 45%;
+  padding-left: 10px;
+}
+
+.link-140 {
+  font-family: 'PT Serif', serif;
+  color: #fff;
+  font-size: 21px;
+  line-height: 25px;
+  text-decoration: none;
+}
+
+.text-block-15603 {
+  margin-left: 10px;
+  font-family: 'PT Serif', serif;
+  color: #fff;
+  font-size: 21px;
+  line-height: 25px;
+  font-weight: 700;
+}
+
+.link-141 {
+  margin-left: 10px;
+  font-family: 'PT Serif', serif;
+  color: #fff;
+  font-size: 21px;
+  line-height: 25px;
+  text-decoration: none;
+  text-transform: capitalize;
+}
+
+.heading-7234 {
+  font-family: 'PT Serif', serif;
+  color: #fff;
+  font-size: 40px;
+  line-height: 50px;
+  text-transform: uppercase;
+}
+
+.div-block-312626 {
+  display: flex;
+  width: 100%;
+  height: 100%;
+  margin-right: auto;
+  margin-left: auto;
+  align-items: flex-end;
+}
+
+.body-3 {
+  font-family: 'PT Serif', serif;
+}
+
+.div-block-312627 {
+  display: flex;
+  width: 100%;
+  flex-direction: row-reverse;
+  justify-content: space-between;
+}
+
+.div-block-312628 {
+  position: relative;
+  width: 48%;
+  height: 563px;
+  background-image: url('../images/portrait-of-factory-worker-at-manufacturing-industry-1-.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.image-32596 {
+  width: 100%;
+}
+
+.div-block-312629 {
+  width: 48%;
+}
+
+.div-block-312630 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  right: auto;
+  bottom: 0%;
+  width: 21px;
+  height: 70%;
+  background-color: #f8981d;
+}
+
+.div-block-312631 {
+  position: absolute;
+  left: 0%;
+  top: auto;
+  right: 0%;
+  bottom: -5%;
+  display: flex;
+  width: 81%;
+  height: 250px;
+  padding: 20px;
+  flex-direction: column;
+  background-color: #f8981d;
+}
+
+.heading-7235 {
+  color: #fff;
+  font-size: 30px;
+  line-height: 40px;
+}
+
+.paragraph-2205 {
+  font-family: Lato, sans-serif;
+  color: #fff;
+  font-size: 17px;
+  line-height: 25px;
+}
+
+.heading-7236 {
+  color: #f3b05b;
+  font-size: 30px;
+  line-height: 40px;
+  text-transform: uppercase;
+}
+
+.paragraph-2206 {
+  font-family: Lato, sans-serif;
+  font-size: 17px;
+  line-height: 25px;
+}
+
+.div-block-312632 {
+  display: flex;
+  width: 100%;
+  align-items: center;
+}
+
+.heading-7237 {
+  margin-top: 0px;
+  color: #f3b05b;
+  font-size: 21px;
+  line-height: 30px;
+  font-weight: 400;
+  text-transform: uppercase;
+}
+
+.paragraph-2207 {
+  font-family: Lato, sans-serif;
+  font-size: 17px;
+  line-height: 25px;
+}
+
+.div-block-312633 {
+  margin-left: 20px;
+}
+
+.div-block-312634 {
+  margin-left: 5px;
+}
+
+.div-block-312635 {
+  margin-left: 20px;
+}
+
+.div-block-312636 {
+  margin-left: 20px;
+}
+
+.cnc-about-feature-section {
+  padding: 60px 20px;
+}
+
+.div-block-312637 {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.div-block-312637.top1 {
+  margin-top: 40px;
+}
+
+.div-block-312638 {
+  display: flex;
+  width: 27%;
+  height: 275px;
+  padding: 20px;
+  flex-direction: column;
+  justify-content: space-between;
+  border: 3px dashed transparent;
+}
+
+.div-block-312638:hover {
+  border-style: dashed;
+  border-width: 3px;
+  border-color: #f8981d;
+}
+
+.div-block-312638.center-div {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: #f8981d;
+}
+
+.div-block-312638.center-div._2:hover {
+  border-color: #fff;
+}
+
+.div-block-312638.one {
+  margin-top: 40px;
+  background-color: #f8981d;
+}
+
+.div-block-312638.one._2 {
+  height: 250px;
+}
+
+.div-block-312638.one._2:hover {
+  border-color: #fff;
+}
+
+.div-block-312638.bottom {
+  margin-top: 40px;
+}
+
+.div-block-312638.bottom._1:hover {
+  border-color: #f3b05b;
+}
+
+.div-block-312638._1 {
+  height: 250px;
+  border-color: #e0e0e0;
+}
+
+.div-block-312638._1:hover {
+  border-color: #f3b05b;
+}
+
+.div-block-312639 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading-7238 {
+  margin-top: 0px;
+  color: #000;
+  font-size: 21px;
+  line-height: 30px;
+  font-weight: 400;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.heading-7238._1 {
+  color: #fff;
+  text-transform: uppercase;
+}
+
+.paragraph-2208 {
+  font-family: Lato, sans-serif;
+  font-size: 17px;
+  line-height: 25px;
+  text-align: center;
+}
+
+.paragraph-2208._1 {
+  color: #fff;
+}
+
+.cnc-archiement-section {
+  display: none;
+  padding: 60px 20px;
+  background-color: #ebebeb;
+}
+
+.div-block-312640 {
+  width: 100%;
+}
+
+.cnc-gallery-section {
+  padding: 60px 20px;
+}
+
+.div-block-312646 {
+  display: -ms-grid;
+  display: grid;
+  overflow: visible;
+  width: 100%;
+  grid-auto-columns: 1fr;
+  grid-column-gap: 16px;
+  grid-row-gap: 16px;
+  -ms-grid-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+  -ms-grid-rows: auto auto;
+  grid-template-rows: auto auto;
+}
+
+.div-block-312647 {
+  width: 100%;
+  height: 285px;
+  background-image: url('../images/cutting-steel-with-a-laser-1-.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.lightbox-link {
+  overflow: hidden;
+  width: 100%;
+  height: 285px;
+  background-image: url('../images/cutting-steel-with-a-laser-1-.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.lightbox-link:hover {
+  background-image: linear-gradient(180deg, rgba(248, 152, 29, 0.35), rgba(248, 152, 29, 0.35)), url('../images/cutting-steel-with-a-laser-1-.jpg');
+  background-position: 0px 0px, 50% 50%;
+  background-size: auto, cover;
+}
+
+.lightbox-link._1 {
+  background-image: url('../images/plasma-cutting-1-2.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.lightbox-link._1:hover {
+  background-image: linear-gradient(180deg, rgba(248, 152, 29, 0.35), rgba(248, 152, 29, 0.35)), url('../images/plasma-cutting-1-2.jpg');
+  background-position: 0px 0px, 50% 50%;
+  background-size: auto, cover;
+}
+
+.lightbox-link._3 {
+  background-image: url('../images/ba954d43142487.57e484c1d238f1.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.lightbox-link._3:hover {
+  background-image: linear-gradient(180deg, rgba(248, 152, 29, 0.35), rgba(248, 152, 29, 0.35)), url('../images/ba954d43142487.57e484c1d238f1.jpg');
+  background-position: 0px 0px, 50% 50%;
+  background-size: auto, cover;
+}
+
+.lightbox-link._4 {
+  background-image: linear-gradient(180deg, transparent, transparent), url('../images/maxresdefault-41.jpg');
+}
+
+.lightbox-link._4:hover {
+  background-image: linear-gradient(180deg, rgba(248, 152, 29, 0.35), rgba(248, 152, 29, 0.35)), url('../images/maxresdefault-41.jpg');
+  background-position: 0px 0px, 50% 50%;
+  background-size: auto, cover;
+}
+
+.lightbox-link._5 {
+  background-image: linear-gradient(180deg, transparent, transparent), url('../images/titanium-gr-2-fasteners1.jpg');
+}
+
+.lightbox-link._5:hover {
+  background-image: linear-gradient(180deg, rgba(248, 152, 29, 0.35), rgba(248, 152, 29, 0.35)), url('../images/titanium-gr-2-fasteners1.jpg');
+  background-position: 0px 0px, 50% 50%;
+  background-size: auto, cover;
+}
+
+.lightbox-link._6 {
+  background-image: linear-gradient(180deg, transparent, transparent), url('../images/i-12.webp');
+}
+
+.lightbox-link._6:hover {
+  background-image: linear-gradient(180deg, rgba(248, 152, 29, 0.35), rgba(248, 152, 29, 0.35)), url('../images/i-12.webp');
+  background-position: 0px 0px, 50% 50%;
+  background-size: auto, cover;
+}
+
+.lightbox-link._7 {
+  background-image: linear-gradient(180deg, transparent, transparent), url('../images/df1f99a0666841d251ae15fe4a22b587.jpg');
+}
+
+.lightbox-link._7:hover {
+  background-image: linear-gradient(180deg, rgba(248, 152, 29, 0.35), rgba(248, 152, 29, 0.35)), url('../images/df1f99a0666841d251ae15fe4a22b587.jpg');
+  background-position: 0px 0px, 50% 50%;
+  background-size: auto, cover;
+}
+
+.lightbox-link._8 {
+  background-image: linear-gradient(180deg, transparent, transparent), url('../images/df1f99a0666841d251ae15fe4a22b587_1.jpg');
+}
+
+.lightbox-link._8:hover {
+  background-image: linear-gradient(180deg, rgba(248, 152, 29, 0.35), rgba(248, 152, 29, 0.35)), url('../images/df1f99a0666841d251ae15fe4a22b587_1.jpg');
+  background-position: 0px 0px, 50% 50%;
+  background-size: auto, cover;
+}
+
+.lightbox-link._8._9 {
+  background-image: linear-gradient(180deg, transparent, transparent), url('../images/df1f99a0666841d251ae15fe4a22b587.jpg1.jpg');
+}
+
+.lightbox-link._8._9:hover {
+  background-image: linear-gradient(180deg, rgba(248, 152, 29, 0.35), rgba(248, 152, 29, 0.35)), url('../images/df1f99a0666841d251ae15fe4a22b587.jpg1.jpg');
+  background-position: 0px 0px, 50% 50%;
+  background-size: auto, cover;
+}
+
+.lightbox-link._8._10 {
+  background-image: linear-gradient(180deg, transparent, transparent), url('../images/coper.jpg');
+}
+
+.lightbox-link._8._10:hover {
+  background-image: linear-gradient(180deg, rgba(248, 152, 29, 0.35), rgba(248, 152, 29, 0.35)), url('../images/coper.jpg');
+  background-position: 0px 0px, 50% 50%;
+  background-size: auto, cover;
+}
+
+.lightbox-link._8._11 {
+  background-image: linear-gradient(180deg, transparent, transparent), url('../images/Timber.jpg');
+}
+
+.lightbox-link._8._11:hover {
+  background-image: linear-gradient(180deg, rgba(248, 152, 29, 0.35), rgba(248, 152, 29, 0.35)), url('../images/Timber.jpg');
+  background-position: 0px 0px, 50% 50%;
+  background-size: auto, cover;
+}
+
+.lightbox-link._8._1 {
+  background-image: linear-gradient(180deg, transparent, transparent), url('../images/worker-welding-exhaust-pipes-pieces-together-1.jpg');
+}
+
+.lightbox-link._8._1:hover {
+  background-image: linear-gradient(180deg, rgba(248, 152, 29, 0.35), rgba(248, 152, 29, 0.35)), url('../images/worker-welding-exhaust-pipes-pieces-together-1.jpg');
+  background-position: 0px 0px, 50% 50%;
+  background-size: auto, cover;
+}
+
+.lightbox-link._8._2 {
+  background-image: linear-gradient(180deg, transparent, transparent), url('../images/Timber.jpg');
+}
+
+.lightbox-link._8._2:hover {
+  background-image: linear-gradient(180deg, rgba(248, 152, 29, 0.35), rgba(248, 152, 29, 0.35)), url('../images/Timber.jpg');
+  background-position: 0px 0px, 50% 50%;
+  background-size: auto, cover;
+}
+
+.lightbox-link._8._3 {
+  background-image: url('../images/coper.jpg');
+}
+
+.lightbox-link._8._3:hover {
+  background-image: linear-gradient(180deg, rgba(248, 152, 29, 0.35), rgba(248, 152, 29, 0.35)), url('../images/coper.jpg');
+  background-position: 0px 0px, 50% 50%;
+  background-size: auto, cover;
+}
+
+.image-32597 {
+  width: 100%;
+}
+
+.div-block-312648 {
+  overflow: hidden;
+}
+
+.cnc-contact-section {
+  padding: 60px 20px;
+}
+
+.div-block-312649 {
+  width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.div-block-312454 {
+  width: 20%;
+  margin-left: 20px;
+  border: 1px solid #e81e2a;
+}
+
+.car1 {
+  display: flex;
+  width: 45%;
+  height: 15vh;
+  margin-right: 20px;
+  padding-left: 20px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  background-color: #1b639c;
+}
+
+.car1:hover {
+  background-color: #e81e2a;
+}
+
+.car1._2 {
+  border-style: solid;
+  border-width: 2px;
+  border-color: #f4ab32;
+  background-color: transparent;
+}
+
+.car1._2._1 {
+  width: 30%;
+  height: 200px;
+  margin-right: 0px;
+  padding-right: 10px;
+  padding-left: 10px;
+  border: 1px solid #dbdada;
+  border-radius: 0px;
+}
+
+.car1._2._1:hover {
+  background-color: #fff;
+}
+
+.car1._2._1._3 {
+  margin-right: 0px;
+  margin-left: 20px;
+  padding-right: 10px;
+}
+
+.car1._2.first {
+  width: 100%;
+  height: 17vh;
+  padding-right: 10px;
+  padding-left: 10px;
+  border: 1px solid #dbdada;
+  border-radius: 0px;
+}
+
+.car1._2.first._1 {
+  width: 100%;
+  height: 200px;
+  margin-right: 0px;
+  padding-top: 20px;
+  justify-content: flex-start;
+  border-radius: 0px;
+}
+
+.text-block-15469 {
+  font-family: 'Fa solid 900', sans-serif;
+  color: #f4ab32;
+  font-size: 35px;
+  line-height: 43px;
+}
+
+.text-block-15468 {
+  font-family: Lato, sans-serif;
+  color: #f4ab32;
+  font-size: 18px;
+  line-height: 24px;
+  font-weight: 700;
+}
+
+.contactdiv {
+  display: none;
+  width: 100%;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.contactdiv._123 {
+  width: 48%;
+  margin-right: 10px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.text-field-2 {
+  height: 60px;
+  padding-left: 30px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #929090;
+  border-radius: 5px;
+  background-color: transparent;
+  color: #7e8591;
+  font-size: 16px;
+  font-weight: 300;
+}
+
+.text-field-2:hover {
+  border-color: #e81e2a;
+}
+
+.text-field-2::-moz-placeholder {
+  font-size: 17px;
+  font-weight: 500;
+}
+
+.text-field-2::-ms-input-placeholder {
+  font-size: 17px;
+  font-weight: 500;
+}
+
+.text-field-2::placeholder {
+  font-size: 17px;
+  font-weight: 500;
+}
+
+.text-field-2.form-message-box {
+  height: 120px;
+  padding-top: 20px;
+  text-align: left;
+}
+
+.div-block-79 {
+  height: 67vh;
+  margin-top: 0px;
+  padding: 40px 30px;
+  border-radius: 10px;
+  background-color: #000;
+}
+
+.div-block-312459 {
+  width: 100%;
+  margin-top: 10px;
+}
+
+.link-block-69 {
+  width: 100%;
+  text-decoration: none;
+}
+
+.div-block-80 {
+  position: relative;
+  margin-top: 20px;
+  margin-right: 0px;
+  margin-left: 0px;
+}
+
+.div-block-80._1 {
+  margin-top: 0px;
+}
+
+.div-block-312455 {
+  display: flex;
+  width: 100%;
+  align-items: flex-start;
+}
+
+.div-block-312456 {
+  width: 100%;
+  padding-bottom: 20px;
+}
+
+.button-211174 {
+  margin-top: 20px;
+  padding: 15px 60px;
+  border-radius: 50px;
+  background-color: #e81e2a;
+  font-family: Lato, sans-serif;
+  color: #fff;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 700;
+}
+
+.paragraph-2183 {
+  margin-top: 10px;
+  font-family: Lato, sans-serif;
+  color: #000;
+  font-size: 17px;
+  line-height: 25px;
+  text-align: center;
+}
+
+.paragraph-2182 {
+  margin-top: 10px;
+  margin-bottom: 0px;
+  padding-top: 0px;
+  font-family: Lato, sans-serif;
+  color: #000;
+  font-size: 17px;
+  line-height: 25px;
+}
+
+.link-block-70 {
+  width: 30%;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  text-decoration: none;
+}
+
+.link-block-70._1 {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.heading-7223 {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-family: 'PT Serif', serif;
+  color: #000;
+  font-size: 30px;
+  line-height: 40px;
+  font-weight: 900;
+}
+
+.div-block-312465 {
+  width: 45%;
+  height: 70vh;
+}
+
+.div-block-312458 {
+  display: flex;
+  width: 100%;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.div-block-312458._2323 {
+  margin-top: 20px;
+  justify-content: flex-start;
+}
+
+.div-block-312458.fl {
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.div-block-312453 {
+  display: flex;
+  width: 100%;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.text-block-15470 {
+  margin-left: 0px;
+  padding-left: 0px;
+  font-family: Lato, sans-serif;
+  color: #000;
+  font-size: 20px;
+  line-height: 28px;
+  font-weight: 400;
+  text-align: center;
+}
+
+.div-block-159 {
+  display: block;
+  width: 48%;
+  margin-top: 20px;
+  padding-left: 0px;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+  border-bottom: 1px none #dbdada;
+}
+
+.div-block-168 {
+  position: absolute;
+  left: 24%;
+  top: 50%;
+  right: 0%;
+  bottom: 0%;
+  width: 15px;
+  height: 2px;
+  background-color: #fff;
+}
+
+.div-block-167 {
+  position: relative;
+  display: inline-block;
+  margin-top: 15px;
+}
+
+.div-block-167.hide {
+  display: none;
+}
+
+.textarea {
+  width: 100%;
+  min-height: 100px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-top: 13px;
+  padding-left: 30px;
+  border: 1px none #000;
+  background-color: #f4f4f5;
+  color: #838999;
+  letter-spacing: 0.6px;
+}
+
+.btn-_arrow_line {
+  position: relative;
+  z-index: 1;
+  width: 30px;
+  height: 3px;
+  margin-left: 30px;
+  background-color: #fff;
+}
+
+.btn_circle_shaper {
+  position: relative;
+  z-index: -1;
+  width: 40px;
+  height: 40px;
+  margin-bottom: 5px;
+  border-radius: 100%;
+}
+
+.form-block-3 {
+  position: relative;
+  height: 100%;
+  margin-right: -15px;
+  margin-bottom: 0px;
+  margin-left: -15px;
+  padding: 40px 20px;
+  background-color: #fff;
+}
+
+.btn_bg_colour {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  right: auto;
+  bottom: 0%;
+  background-color: #000;
+}
+
+.btn_text {
+  position: relative;
+  z-index: 1;
+  font-family: Bitter, serif;
+}
+
+.text-field-7 {
+  width: 100%;
+  height: 50px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-left: 30px;
+  border-style: none;
+  border-width: 1px;
+  border-color: #ddd #ddd #000;
+  background-color: #f4f4f5;
+  font-family: 'PT Sans', sans-serif;
+  letter-spacing: 0.6px;
+}
+
+.div-block-270 {
+  position: relative;
+  z-index: 24;
+  width: 45%;
+  height: auto;
+  margin-right: auto;
+  padding-right: 15px;
+  padding-left: 15px;
+  background-color: #fff;
+  box-shadow: 0 0 20px -7px #b1b1b1;
+}
+
+.btn {
+  position: relative;
+  z-index: 2;
+  display: flex;
+  padding: 20px;
+  justify-content: flex-start;
+  align-items: center;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #000;
+  background-color: #ff6c38;
+  color: #fff;
+  font-size: 20px;
+  line-height: 26px;
+  text-align: left;
+  letter-spacing: 1px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  border-color: #1c4676;
+  background-color: #1c4676;
+  outline-color: #fff;
+  outline-offset: 0px;
+  outline-style: none;
+  outline-width: 3px;
+}
+
+.button-4 {
+  display: flex;
+  width: 150px;
+  height: 50px;
+  margin-top: 20px;
+  margin-right: auto;
+  margin-left: auto;
+  justify-content: center;
+  align-items: center;
+  background-color: #ff6c38;
+  font-family: Oswald, sans-serif;
+  font-size: 21px;
+  line-height: 25px;
+}
+
+.button-4:hover {
+  background-color: #1c4676;
+}
+
+.circle_of_btn {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  right: auto;
+  bottom: auto;
+  transform: rotate(90deg);
+}
+
+.btn_circle_wrapper {
+  position: absolute;
+  left: auto;
+  top: 0%;
+  right: 25px;
+  bottom: 0%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.div-block-160 {
+  display: block;
+  width: 48%;
+  margin-top: 20px;
+  justify-content: space-between;
+  align-items: flex-end;
+  border-bottom: 1px none #ddd;
+}
+
+.text-block-79 {
+  margin-bottom: 5px;
+  font-family: 'PT Serif', serif;
+  color: #000;
+  font-size: 15px;
+  line-height: 25px;
+  font-weight: 700;
+}
+
+.text-block-79._10 {
+  margin-top: 20px;
+}
+
+.div-block-272 {
+  display: flex;
+  width: 100%;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.her0_slider_btn {
+  display: flex;
+  margin-top: 100px;
+  flex-direction: column;
+  align-items: flex-start;
+  font-weight: 500;
+  letter-spacing: 1px;
+}
+
+.her0_slider_btn._1 {
+  display: block;
+  width: 107%;
+  margin-top: 20px;
+  align-items: flex-start;
+  border: 1px solid transparent;
+  text-align: left;
+  -o-object-fit: fill;
+  object-fit: fill;
+}
+
+.her0_slider_btn._1:hover {
+  border: 1px solid transparent;
+}
+
+.btn_arrow {
+  position: relative;
+  z-index: 1;
+  margin-left: -5px;
+  font-weight: 600;
+}
+
+.form-3 {
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+.div-block-312650 {
+  display: block;
+  margin-top: 20px;
+  justify-content: space-between;
+  align-items: flex-end;
+  border-bottom: 1px solid #ddd;
+}
+
+.heading-7239 {
+  background-image: none;
+  font-family: 'PT Serif', serif;
+  color: #000;
+  font-size: 70px;
+  line-height: 80px;
+  text-align: right;
+}
+
+.heading-7239.one {
+  display: none;
+  margin-top: 0px;
+  background-image: url('../images/cnc-laser-cutting-metal-modern-industrial-technology-.jpg');
+  text-shadow: 0 0 1px #fdf5eb;
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.div-block-312651 {
+  position: absolute;
+  left: 7%;
+  top: 6%;
+  right: 0%;
+  z-index: -1;
+  display: block;
+  width: 100%;
+  height: 100%;
+  border: 14px none #f3b05b;
+  background-color: #f3b05b;
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../images/51f300f569bedd8e10000011.webp');
+  background-position: 0px 0px, 0px 0px;
+  background-size: auto, auto;
+}
+
+.div-block-312652 {
+  margin-left: 0px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.div-block-312653 {
+  margin-left: 0px;
+}
+
+.image-32443 {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  border-radius: 0px;
+}
+
+.h-3-3 {
+  margin-top: 0px;
+  margin-bottom: 10px;
+  font-family: Lato, sans-serif;
+  color: rgba(0, 0, 0, 0.6);
+  font-weight: 600;
+  text-align: left;
+  text-transform: uppercase;
+}
+
+.about-div {
+  display: block;
+  width: 100%;
+  max-width: 1300px;
+  margin-right: auto;
+  margin-left: auto;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.paragraph-2209 {
+  font-family: Lato, sans-serif;
+  font-size: 17px;
+  line-height: 25px;
+  font-weight: 400;
+  text-align: left;
+}
+
+.paragraph-2209._1 {
+  font-size: 21px;
+  line-height: 30px;
+}
+
+.div-block-312654 {
+  display: none;
+  width: 100%;
+  margin-top: 20px;
+}
+
+.div-block-312654.hide1 {
+  display: none;
+}
+
+.about-content {
+  text-align: center;
+}
+
+.about-content._1 {
+  display: none;
+}
+
+.about-content.about-main {
+  display: block;
+  width: 100%;
+}
+
+.header-wrap-2 {
+  margin-right: 10px;
+  margin-left: 10px;
+  text-align: left;
+}
+
+.div-block-312524 {
+  position: absolute;
+  left: -4%;
+  top: -8%;
+  right: auto;
+  bottom: auto;
+  z-index: -1;
+}
+
+.div-block-312511 {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+}
+
+.div-block-14 {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.image-32444 {
+  filter: brightness(200%);
+}
+
+.div-block-312517 {
+  position: relative;
+  overflow: hidden;
+  width: 48%;
+  height: 375px;
+}
+
+.cnc-service-detail-page {
+  overflow: hidden;
+  width: 100%;
+  padding: 60px 20px;
+}
+
+.cnc-service-detail-page.about {
+  padding: 100px 20px;
+}
+
+.heading-7229 {
+  width: 100%;
+  margin-top: 0px;
+  border-bottom: 3px none #558fe5;
+  background-image: none;
+  background-size: auto;
+  color: #05274d;
+  background-clip: border-box;
+  -webkit-text-fill-color: inherit;
+}
+
+.text-block-15604 {
+  font-family: 'Fa solid 900', sans-serif;
+  color: #fff;
+  font-size: 21px;
+  line-height: 25px;
+}
+
+.div-block-312655 {
+  width: 48%;
+}
+
+.div-block-312656 {
+  width: 25px;
+  height: 25px;
+  background-color: #f3b05b;
+}
+
+.div-block-312657 {
+  width: 25px;
+  height: 25px;
+  background-color: #f3b05b;
+}
+
+.div-block-312658 {
+  width: 25px;
+  height: 25px;
+  background-color: #f3b05b;
+}
+
+.cnc-question-section {
+  height: 40vh;
+  margin-bottom: 100px;
+  padding-top: 40px;
+  padding-right: 20px;
+  padding-left: 20px;
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.54), rgba(0, 0, 0, 0.54)), url('../images/ENSIS-Clip_02.jpg');
+  background-position: 0px 0px, 50% 50%;
+  background-size: auto, cover;
+}
+
+.container-1280 {
+  max-width: 1250px;
+}
+
+.div-block-31736 {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+}
+
+.div-block-31790 {
+  display: flex;
+  width: 100%;
+  height: 40vh;
+  padding-top: 75px;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.heading-7213 {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-bottom: 20px;
+  font-family: 'PT Serif', serif;
+  color: #fff;
+  font-size: 40px;
+  line-height: 48px;
+}
+
+.button-211169 {
+  padding: 15px 30px;
+  border-radius: 5px;
+  font-family: Lato, sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.paragraph-2210 {
+  margin-right: auto;
+  margin-bottom: 0px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-family: Lato, sans-serif;
+  font-size: 17px;
+  line-height: 25px;
+  font-style: normal;
+  font-weight: 500;
+  text-align: justify;
+}
+
+.div-block-312659 {
+  margin-top: 20px;
+}
+
+.div-block-312659.hide1 {
+  display: block;
+}
+
+.paragraph-2211 {
+  font-family: Lato, sans-serif;
+  font-size: 17px;
+  line-height: 30px;
+}
+
+.paragraph-2211._1 {
+  margin-top: 40px;
+  line-height: 30px;
+}
+
+.div-block-312660 {
+  width: 100%;
+  margin-top: 40px;
+}
+
+.slider-9 {
+  display: none;
+  background-color: transparent;
+}
+
+.left-arrow-4 {
+  display: none;
+}
+
+.right-arrow-4 {
+  display: none;
+}
+
+.div-block-312661 {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+}
+
+.div-block-312662 {
+  position: relative;
+  overflow: hidden;
+  width: 23%;
+  height: 300px;
+  background-image: url('../images/df1f99a0666841d251ae15fe4a22b587_2.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+  box-shadow: none;
+}
+
+.div-block-312662:hover {
+  filter: grayscale(100%);
+}
+
+.div-block-312662.w {
+  position: relative;
+  background-image: url('../images/maxresdefault-5.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+  box-shadow: none;
+}
+
+.div-block-312662.w:hover {
+  background-image: url('../images/maxresdefault-5.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+  box-shadow: none;
+}
+
+.div-block-312662.c {
+  background-image: url('../images/maxresdefault-7.jpg');
+  background-position: 0% 50%;
+  background-size: cover;
+}
+
+.div-block-312662.p {
+  background-image: url('../images/cnc-machined-prototype.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.div-block-312662.l {
+  background-image: url('../images/1500x1000.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.div-block-312663 {
+  width: 23%;
+  height: 300px;
+  background-image: url('../images/i-14.webp');
+  background-position: 50% 50%;
+  background-size: cover;
+  box-shadow: none;
+}
+
+.div-block-312663:hover {
+  filter: grayscale(100%);
+}
+
+.div-block-312663.w1 {
+  position: relative;
+  background-image: url('../images/5c9689abb07fed32ac1c6b26bb68b1b4--notebook-sale-diary-notebook.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+  box-shadow: none;
+}
+
+.div-block-312663.c {
+  position: relative;
+  background-image: url('../images/9f28bfe0a7e0e1c5da0962cc7e9379046529667f.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+  box-shadow: none;
+}
+
+.div-block-312663.p {
+  position: relative;
+  background-image: url('../images/UV3Dprinter.webp');
+  background-position: 50% 50%;
+  background-size: cover;
+  box-shadow: none;
+}
+
+.div-block-312663.l {
+  position: relative;
+  background-image: url('../images/Laser-Engraving-B1-e1525702448545.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+  box-shadow: none;
+}
+
+.div-block-312664 {
+  position: relative;
+  width: 23%;
+  height: 300px;
+  background-image: url('../images/Figure-8-Other-type-of-laser-that-cut-wood.webp');
+  background-position: 50% 50%;
+  background-size: cover;
+  box-shadow: none;
+}
+
+.div-block-312664:hover {
+  filter: grayscale(100%);
+}
+
+.div-block-312664.w3 {
+  position: relative;
+  background-image: url('../images/laser-cut-wood.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+  box-shadow: none;
+}
+
+.div-block-312664.c {
+  background-image: url('../images/maxresdefault-8.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.div-block-312664.p {
+  background-image: url('../images/041_original.webp');
+  background-position: 0% 50%;
+  background-size: cover;
+}
+
+.div-block-312664.l {
+  background-image: url('../images/maxresdefault-16.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.div-block-312665 {
+  position: relative;
+  width: 23%;
+  height: 300px;
+  background-image: url('../images/i-15.webp');
+  background-position: 50% 50%;
+  background-size: cover;
+  box-shadow: none;
+}
+
+.div-block-312665:hover {
+  filter: grayscale(100%);
+}
+
+.div-block-312665.w3 {
+  position: relative;
+  background-image: url('../images/40.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+  box-shadow: none;
+}
+
+.div-block-312665.c {
+  background-image: url('../images/BP-LaserCutter-Header-1.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+  box-shadow: none;
+}
+
+.div-block-312665.p {
+  background-image: url('../images/i-16.webp');
+  background-position: 50% 50%;
+  background-size: cover;
+  box-shadow: none;
+}
+
+.div-block-312665.l {
+  background-image: url('../images/cnc-engraving-a-wooden-sign.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+  box-shadow: none;
+}
+
+.slide-nav-5 {
+  top: 339px;
+}
+
+.div-block-312666 {
+  display: flex;
+  width: 100%;
+  margin-top: 60px;
+  justify-content: space-between;
+  align-content: stretch;
+}
+
+.div-block-312666.center {
+  width: 64%;
+  margin-top: 40px;
+  margin-right: auto;
+  margin-left: auto;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.div-block-312667 {
+  width: 100%;
+  margin-top: 100px;
+}
+
+.bold-text-329 {
+  font-weight: 400;
+}
+
+.cnc-industry-section {
+  padding: 60px 20px;
+}
+
+.div-block-312668 {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+}
+
+.div-block-312669 {
+  width: 48%;
+}
+
+.div-block-312670 {
+  display: -ms-grid;
+  display: grid;
+  width: 100%;
+  grid-auto-columns: 1fr;
+  grid-column-gap: 16px;
+  grid-row-gap: 16px;
+  -ms-grid-columns: 1fr 1fr;
+  grid-template-columns: 1fr 1fr;
+  -ms-grid-rows: auto auto auto;
+  grid-template-rows: auto auto auto;
+}
+
+.div-block-312671 {
+  overflow: hidden;
+  width: 100%;
+}
+
+.image-32598 {
+  overflow: hidden;
+  width: 100%;
+}
+
+.div-block-312672 {
+  width: 48%;
+}
+
+.image-32599 {
+  width: 100%;
+  padding-top: 60px;
+}
+
+.div-block-312673 {
+  display: flex;
+  margin-top: -63px;
+  margin-left: 20px;
+  justify-content: center;
+  align-items: center;
+  background-color: #f8981d;
+}
+
+.heading-7240 {
+  font-family: 'PT Serif', serif;
+  color: #fff;
+  font-size: 40px;
+  line-height: 50px;
+  text-align: center;
+}
+
+.image-32600 {
+  width: 100%;
+}
+
+.body-4 {
+  font-family: 'PT Serif', serif;
+}
+
+.heading-7241 {
+  color: #f3b05b;
+  font-size: 30px;
+  line-height: 40px;
+  text-transform: uppercase;
+}
+
+.paragraph-2212 {
+  font-family: Lato, sans-serif;
+  font-size: 17px;
+  line-height: 25px;
+}
+
+.div-block-312674 {
+  display: flex;
+  width: 100%;
+  margin-top: 20px;
+  align-items: center;
+}
+
+.div-block-312675 {
+  display: flex;
+  width: 70px;
+  height: 70px;
+  justify-content: center;
+  align-items: center;
+  border: 3px solid #f3b05b;
+}
+
+.text-block-15605 {
+  font-family: 'PT Serif', serif;
+  color: #f3b05b;
+  font-size: 21px;
+  line-height: 25px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.div-block-312676 {
+  width: 70%;
+  margin-left: 20px;
+}
+
+.paragraph-2213 {
+  margin-top: 10px;
+  font-family: Lato, sans-serif;
+  font-size: 17px;
+  line-height: 25px;
+}
+
+.image-32601 {
+  width: 50px;
+}
+
+.image-32602 {
+  width: 54px;
+}
+
+.text-block-15606 {
+  color: #fff;
+}
+
+.icon-18 {
+  color: #fff;
+}
+
+.dropdown-list {
+  background-color: transparent;
+}
+
+.dropdown-list.w--open {
+  background-color: hsla(0, 0%, 63.3%, 0.54);
+}
+
+.dropdown-link {
+  color: #fff;
+}
+
+.dropdown-link-2 {
+  color: #fff;
+}
+
+.dropdown-link-3 {
+  color: #fff;
+}
+
+.dropdown-title-2 {
+  margin-bottom: 2px;
+  font-size: 14px;
+  font-weight: 700;
+  text-align: left;
+  text-transform: uppercase;
+}
+
+.dropdown-pointer-2 {
+  position: relative;
+  height: auto;
+}
+
+.nav-content-wrap-3 {
+  display: flex;
+  width: 100%;
+  margin-left: 5px;
+  padding-left: 0px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  text-align: center;
+}
+
+.icon-wrap-2 {
+  display: flex;
+  width: 40px;
+  height: 40px;
+  padding: 11px 0px;
+  justify-content: center;
+  align-items: center;
+  flex: 0 0 auto;
+  border-radius: 100%;
+  background-color: transparent;
+  background-image: none;
+}
+
+.dropdown-wrapper-2 {
+  overflow: visible;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #fff;
+  box-shadow: 4px -19px 35px 0 rgba(32, 53, 90, 0.08), 11px 11px 30px -10px rgba(32, 53, 90, 0.15);
+}
+
+.dropdown-wrapper-2.w--open {
+  left: -97px;
+  max-height: 100vh;
+  min-width: 300px;
+  border-radius: 15px;
+  background-color: #fff;
+  box-shadow: 0 50px 25px -50px rgba(32, 53, 90, 0.15), 8px 18px 60px 4px rgba(0, 0, 0, 0.13);
+}
+
+.icon-19 {
+  display: flex;
+  width: 79%;
+  margin-bottom: 0px;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Fa solid 900', sans-serif;
+  color: #fff;
+  font-weight: 400;
+}
+
+.div-block-312566 {
+  box-shadow: 0 0 20px 0 hsla(0, 0%, 100%, 0.02);
+}
+
+.pointer-2 {
+  position: absolute;
+  left: 0%;
+  top: -2%;
+  right: 4%;
+  bottom: auto;
+  z-index: 20;
+  display: none;
+  width: 20px;
+  height: 20px;
+  margin-right: auto;
+  margin-left: auto;
+  border-radius: 2px;
+  background-color: #fff;
+  transform: rotate(45deg);
+}
+
+.dropdown-5 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.text-block-15206 {
+  color: #fff;
+  font-size: 17px;
+}
+
+.nav-link-details-2 {
+  display: none;
+  color: rgba(40, 51, 56, 0.6);
+  font-size: 14px;
+  white-space: normal;
+}
+
+.navigation-dropdown-3 {
+  top: 100%;
+  display: block;
+  min-width: 250px;
+}
+
+.navigation-dropdown-3.w--open {
+  left: -25px;
+  top: 100%;
+  right: -126.578px;
+  height: auto;
+  min-width: 200px;
+  padding-top: 10px;
+  background-color: transparent;
+}
+
+.navigation-dropdown-3.left {
+  display: block;
+  min-width: 200px;
+}
+
+.navigation-dropdown-3.left.w--open {
+  right: -30px;
+  width: 100px;
+  min-width: 230px;
+}
+
+.navigation-dropdown-3.left {
+  display: none;
+  width: 300px;
+  min-width: 300px;
+}
+
+.navigation-dropdown-3.left.w--open {
+  right: -30px;
+  display: block;
+  min-width: 230px;
+}
+
+.dropdown-link-4 {
+  position: relative;
+  z-index: 25;
+  display: flex;
+  padding: 4px 12px;
+  align-items: center;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #ececec;
+  transition: all 200ms ease;
+  color: #283338;
+  font-size: 16px;
+  text-decoration: none;
+}
+
+.dropdown-link-4:hover {
+  background-color: #fff;
+  color: #f60;
+}
+
+.dropdown-link-4.border {
+  padding: 10px;
+  justify-content: center;
+  border-style: solid;
+  border-color: rgba(248, 152, 29, 0.24);
+  font-family: 'PT Serif', serif;
+  font-size: 18px;
+}
+
+.dropdown-link-4.border:hover {
+  border-bottom-color: #f8981d;
+  background-color: #f3b05b;
+  color: #fff;
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.dropdown {
+  font-family: 'PT Serif', serif;
+  font-size: 20px;
+  line-height: 26px;
+  font-weight: 700;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+.link-25 {
+  color: #fff;
+  font-size: 14px;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.link-25:hover {
+  color: #b98b2f;
+}
+
+.link-25.w--current {
+  color: #b98b2f;
+}
+
+.link-25._1 {
+  font-size: 17px;
+  font-weight: 700;
+  text-transform: capitalize;
+}
+
+.link-25._1:hover {
+  color: #f8981d;
+}
+
+.link-25._1 {
+  font-size: 17px;
+  font-weight: 700;
+  text-transform: capitalize;
+}
+
+.icon-23 {
+  margin-right: 5px;
+  color: #fff;
+  font-weight: 400;
+}
+
+.icon-23:hover {
+  color: #b98b2f;
+}
+
+.icon-23._1 {
+  color: #fff;
+  font-size: 17px;
+}
+
+.icon-23._1:hover {
+  color: #f8981d;
+}
+
+.icon-23._1 {
+  color: #fff;
+  font-size: 17px;
+}
+
+.cnc-industry1-section {
+  padding: 60px 20px;
+  background-color: #ebebeb;
+}
+
+.div-block-312677 {
+  display: flex;
+  width: 100%;
+  margin-top: 40px;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.div-block-312678 {
+  position: relative;
+  overflow: hidden;
+  width: 23%;
+  height: 321px;
+  background-color: #fff;
+  box-shadow: 0 0 20px -4px #c2c2c2;
+}
+
+.div-block-312678.one {
+  height: 321px;
+  margin-top: 0px;
+  background-color: #fff;
+}
+
+.div-block-312678.one._1 {
+  margin-top: 30px;
+  background-color: #fff;
+}
+
+.div-block-312679 {
+  overflow: hidden;
+  width: 100%;
+  height: 250px;
+  background-image: url('../images/FiberHead1_1.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+  background-repeat: repeat;
+}
+
+.div-block-312679.l1 {
+  height: 250px;
+  background-image: url('../images/Headlines04_360_210305.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+  background-repeat: repeat;
+}
+
+.div-block-312679.w1 {
+  height: 250px;
+  background-image: url('../images/f4e3bbc84ec13e85e56c0bead4c7c4f1.jpg');
+  background-position: 0px 0px;
+  background-size: auto 100%;
+  background-repeat: no-repeat;
+}
+
+.div-block-312679.c1 {
+  height: 250px;
+  background-image: url('../images/laser-cut-screens-wtw-willis-building-london-2.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+  background-repeat: repeat;
+}
+
+.div-block-312679.e1 {
+  background-image: url('../images/6a597d54834e2b83887a19918e1d8cdb.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+  background-repeat: repeat;
+}
+
+.div-block-312679.i1 {
+  background-image: url('../images/advanced-manufacturing-in-latin-america-scaled.webp');
+  background-position: 50% 50%;
+  background-size: cover;
+  background-repeat: repeat;
+}
+
+.div-block-312679.f1 {
+  background-image: url('../images/technology_industry_machine.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+  background-repeat: repeat;
+}
+
+.div-block-312679.e2 {
+  background-image: url('../images/d4e54f60ac7824ddf41086c1b1225130.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+  background-repeat: repeat;
+}
+
+.heading-7242 {
+  padding-left: 10px;
+  color: #f3b05b;
+  font-size: 21px;
+  line-height: 40px;
+  font-weight: 700;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.paragraph-2214 {
+  display: none;
+  padding-left: 10px;
+  font-family: Lato, sans-serif;
+  font-size: 17px;
+  line-height: 25px;
+}
+
+.div-block-312680 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  right: 0%;
+  bottom: 0%;
+  display: flex;
+  width: 100%;
+  height: 250px;
+  padding-right: 10px;
+  padding-left: 10px;
+  justify-content: center;
+  align-items: center;
+  opacity: 0;
+}
+
+.div-block-312681 {
+  position: absolute;
+}
+
+.paragraph-2215 {
+  margin-bottom: 0px;
+  font-family: Lato, sans-serif;
+  color: #fff;
+  font-size: 17px;
+  line-height: 25px;
+  text-align: center;
+}
+
+.bold-text-330 {
+  text-transform: uppercase;
+}
+
+.cnc-technologysection {
+  display: flex;
+  height: 70vh;
+  padding: 0px 20px;
+  align-items: center;
+}
+
+.cnc-technologysection.bottom {
+  padding-bottom: 140px;
+}
+
+.cnc-technologysection.bottom._1 {
+  padding-bottom: 60px;
+}
+
+.cnc-technologysection.bottom._1.f1 {
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('../images/Fabric-Laser-Cutter-or-Engraver.png');
+  background-position: 0px 0px, 50% 50%;
+  background-size: auto, cover;
+  background-attachment: scroll, fixed;
+}
+
+.cnc-technologysection._1 {
+  padding-bottom: 60px;
+  background-color: #ebebeb;
+}
+
+.cnc-technologysection._1._2 {
+  display: flex;
+  height: 70vh;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('../images/Acrylic-Laser-Cutting-Machines1.jpg');
+  background-position: 0px 0px, 50% 50%;
+  background-size: auto, cover;
+  background-attachment: scroll, fixed;
+}
+
+.cnc-technologysection._1._3 {
+  padding-bottom: 0px;
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('../images/Laser-Pen-Engraving-Machine.jpg');
+  background-position: 0px 0px, 50% 50%;
+  background-size: auto, cover;
+  background-attachment: scroll, fixed;
+}
+
+.div-block-312682 {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.div-block-312682.reverse {
+  height: 100%;
+  flex-direction: row-reverse;
+}
+
+.div-block-312683 {
+  width: 48%;
+}
+
+.div-block-312684 {
+  width: 48%;
+}
+
+.heading-7243 {
+  font-family: 'PT Serif', serif;
+  font-size: 40px;
+  line-height: 50px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.body-5 {
+  font-family: 'PT Serif', serif;
+}
+
+.heading-7244 {
+  margin-top: 0px;
+  color: #f3b05b;
+  font-size: 30px;
+  line-height: 40px;
+  text-transform: uppercase;
+}
+
+.paragraph-2216 {
+  font-family: Lato, sans-serif;
+  color: #fff;
+  font-size: 17px;
+  line-height: 25px;
+}
+
+.paragraph-2216._1 {
+  color: #000;
+}
+
+.image-32603 {
+  width: 100%;
+}
+
+.image-32604 {
+  width: 100%;
+}
+
+.image-32605 {
+  width: 100%;
+}
+
+.image-32606 {
+  width: 100%;
+}
+
+.image-32607 {
+  width: 100%;
+}
+
+.image-32608 {
+  width: 100%;
+}
+
+.mobile-navigation {
+  display: none;
+}
+
+.image-32609 {
+  width: 60px;
+}
+
+.image-32610 {
+  width: 60px;
+}
+
+.mobile-navigation1 {
+  display: none;
+}
+
+.fixed-chat-bolt.hide {
+  position: fixed;
+  left: auto;
+  top: auto;
+  right: 2%;
+  bottom: 2%;
+  z-index: 1000;
+  display: none;
+  justify-content: flex-end;
+}
+
+.text-block-65 {
+  position: relative;
+  margin-bottom: 10px;
+  color: #06223f;
+  text-align: center;
+}
+
+.div-block-925 {
+  padding: 3px;
+  border: 1px solid #dc1a2a;
+  border-radius: 100px;
+}
+
+.div-block-312436 {
+  display: flex;
+  width: 80%;
+  justify-content: center;
+}
+
+.whatsapp-wrapper-2 {
+  display: flex;
+  width: 50px;
+  height: 50px;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50px;
+  background-color: #00e676;
+}
+
+.xbutton {
+  position: absolute;
+  left: auto;
+  top: 9%;
+  right: 5%;
+  bottom: auto;
+  cursor: pointer;
+}
+
+.link-block-26 {
+  text-decoration: none;
+}
+
+.link-block-26.w--current {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.chat-bolt-div {
+  position: fixed;
+  left: auto;
+  top: auto;
+  right: 2%;
+  bottom: 10%;
+  display: none;
+  width: 200px;
+  height: 80px;
+  margin-left: auto;
+  padding: 9px;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+  border-radius: 6px;
+  background-color: #fff;
+  box-shadow: 0 0 12px -4px #b1b1b1;
+}
+
+.div-block-312686 {
+  display: flex;
+  width: 48%;
+  height: 200px;
+  padding-right: 60px;
+  justify-content: center;
+  align-items: center;
+  background-color: #f8981d;
+}
+
+.heading-7245 {
+  color: #fff;
+  font-size: 30px;
+  line-height: 40px;
+  text-transform: uppercase;
+}
+
+.slidercontainer {
+  max-width: 1300px;
+}
+
+.heading-7217 {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  color: #fff;
+  font-size: 50px;
+  line-height: 58px;
+  font-weight: 700;
+}
+
+.div-block-312442 {
+  display: flex;
+  width: 10%;
+  padding-bottom: 20px;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.div-block-312443 {
+  display: block;
+  width: 100%;
+  margin-top: 10px;
+  margin-bottom: 0px;
+  border-style: solid;
+  border-width: 3px;
+  border-color: #f8981d;
+}
+
+.div-block-312443:hover {
+  display: block;
+}
+
+.heading-7218 {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-right: 10px;
+  font-size: 50px;
+  line-height: 58px;
+  font-weight: 400;
+}
+
+.div-block-312440 {
+  display: flex;
+  width: 100%;
+  margin-top: 5px;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.divmainclass {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: flex-end;
+}
+
+.bold-text-261 {
+  color: #fff;
+}
+
+.heading-7219 {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  color: #fff;
+  font-size: 23px;
+  line-height: 30px;
+  font-weight: 400;
+}
+
+.div-block-312441 {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+}
+
+.slidersection {
+  display: none;
+  padding: 120px 20px;
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.48), rgba(0, 0, 0, 0.48)), url('../images/slider_bg04.jpg');
+  background-position: 0px 0px, 50% 50%;
+  background-size: auto, cover;
+  background-attachment: scroll, fixed;
+}
+
+.slidersection._147 {
+  display: block;
+  height: 52vh;
+  padding-top: 60px;
+  padding-bottom: 0px;
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../images/20170501_181849-e1496346017400.jpg');
+  background-position: 0px 0px, 50% 50%;
+  background-size: auto, cover;
+  background-attachment: scroll, fixed;
+}
+
+.div-block-312439 {
+  display: flex;
+  width: 22%;
+  margin-right: 10px;
+  margin-left: 10px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.div-block-312439._1236 {
+  margin-right: 40px;
+  padding-right: 0px;
+}
+
+.text-block-15608 {
+  color: #a3826c;
+}
+
+.background-video-2 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  right: 0%;
+  bottom: 0%;
+  z-index: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.image-32612 {
+  filter: sepia(42%);
+}
+
+.image-32613 {
+  filter: sepia(42%);
+}
+
+.image-32614 {
+  filter: sepia(42%);
+}
+
+.image-32615 {
+  filter: sepia(42%);
+}
+
+.image-32616 {
+  filter: sepia(42%);
+}
+
+.image-32617 {
+  filter: sepia(42%);
+}
+
+.div-block-312687 {
+  display: none;
+}
+
+.div-block-312688 {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+}
+
+.div-block-312689 {
+  display: flex;
+  width: 52%;
+  padding-right: 20px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading-7246 {
+  font-family: 'PT Serif', serif;
+  color: #000;
+  font-size: 30px;
+  line-height: 40px;
+}
+
+.heading-7246.left {
+  margin-right: auto;
+}
+
+.div-block-312690 {
+  position: absolute;
+  left: 42px;
+  top: 0%;
+  right: 0%;
+  bottom: 0%;
+  z-index: -3;
+  width: 100%;
+  border-right: 25px none #000;
+  border-bottom: 25px none #000;
+  background-color: #686464;
+}
+
+.div-block-312691 {
+  width: 67%;
+}
+
+.div-block-312692 {
+  display: none;
+}
+
+.div-block-312693 {
+  width: 100%;
+  height: 21px;
+  background-color: #fff;
+}
+
+.div-block-312694 {
+  display: none;
+}
+
+.div-block-312695 {
+  display: none;
+}
+
+.div-block-312696 {
+  display: none;
+}
+
+.div-block-312697 {
+  display: none;
+}
+
+.div-block-312698 {
+  display: none;
+}
+
+.div-block-312699 {
+  display: none;
+}
+
+.div-block-312700 {
+  display: none;
+}
+
+.div-block-312701 {
+  overflow: hidden;
+  width: 300px;
+}
+
+.div-block-312702 {
+  position: relative;
+  left: 66px;
+  top: 19px;
+  overflow: hidden;
+  width: 230px;
+}
+
+.div-block-312703 {
+  position: relative;
+  left: 57px;
+  top: 100px;
+  overflow: hidden;
+  width: 48%;
+}
+
+.div-block-312704 {
+  position: absolute;
+  left: auto;
+  top: 0%;
+  right: 0%;
+  bottom: 0%;
+  width: 5px;
+  height: 0%;
+  background-image: linear-gradient(180deg, #000, #f8981d 0%);
+}
+
+.div-block-312705 {
+  position: absolute;
+  left: 0%;
+  top: auto;
+  right: 0%;
+  bottom: 0%;
+  width: 0%;
+  height: 5px;
+  margin-left: auto;
+  background-color: #f8981d;
+}
+
+.div-block-312706 {
+  display: none;
+}
+
+.div-block-312707 {
+  overflow: hidden;
+  margin-top: -13px;
+}
+
+.section-231 {
+  padding: 60px 20px;
+}
+
+.container-1289 {
+  max-width: 1300px;
+}
+
+.div-block-312708 {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.div-block-312709 {
+  display: flex;
+  width: 50%;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.heading-7247 {
+  font-family: 'PT Serif', serif;
+  color: #f8981d;
+}
+
+.paragraph-2217 {
+  font-family: Lato, sans-serif;
+  font-size: 17px;
+  line-height: 25px;
+}
+
+.div-block-312710 {
+  width: 40%;
+  height: 70vh;
+  margin-left: 10px;
+}
+
+.slider-10 {
+  height: 70vh;
+  background-color: transparent;
+}
+
+.slide-25 {
+  background-color: transparent;
+}
+
+.div-block-312711 {
+  height: 30vh;
+  border-top: 5px solid #f8981d;
+  border-left: 5px solid #f8981d;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+}
+
+.left-arrow-5 {
+  display: none;
+}
+
+.right-arrow-5 {
+  display: none;
+}
+
+.image-32618 {
+  width: 100%;
+  height: 100%;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+}
+
+.slide-nav-6 {
+  display: none;
+}
+
+.section-232 {
+  padding: 60px 20px;
+  background-image: linear-gradient(180deg, hsla(0, 0%, 100%, 0.57), hsla(0, 0%, 100%, 0.57)), url('../images/cnc-laser-cutting-of-metal-modern-industrial-tech-2022-02-02-04-49-08-utc-1.jpg');
+  background-position: 0px 0px, 50% 50%;
+  background-size: auto, cover;
+  background-repeat: repeat, no-repeat;
+}
+
+.container-1290 {
+  max-width: 1300px;
+}
+
+.div-block-312712 {
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading-7248 {
+  font-family: 'PT Serif', serif;
+  color: #f8981d;
+  font-size: 50px;
+  line-height: 58px;
+  font-weight: 700;
+}
+
+.div-block-312713 {
+  width: 45%;
+  border-radius: 20px;
+}
+
+.div-block-312714 {
+  height: 35vh;
+}
+
+.slider-11 {
+  background-color: transparent;
+}
+
+.div-block-312715 {
+  height: 35vh;
+}
+
+.image-32619 {
+  width: 100%;
+  height: 100%;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+}
+
+.icon-25 {
+  color: #000;
+}
+
+.icon-26 {
+  color: #000;
+}
+
+.div-block-312716 {
+  display: flex;
+  padding-bottom: 20px;
+  padding-left: 10px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #e0e0e0;
+}
+
+.div-block-312717 {
+  display: flex;
+  width: 100%;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.heading-7249 {
+  margin-top: 10px;
+  font-family: 'PT Serif', serif;
+  color: #f8981d;
+  font-size: 20px;
+  line-height: 28px;
+}
+
+.div-block-312718 {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.div-block-312718._417 {
+  width: 100%;
+}
+
+.heading-7250 {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-family: Lato, sans-serif;
+  font-size: 18px;
+  line-height: 26px;
+  font-weight: 900;
+}
+
+.text-span-3 {
+  padding-left: 10px;
+  font-family: Lato, sans-serif;
+  font-size: 18px;
+  line-height: 26px;
+}
+
+.div-block-312719 {
+  display: flex;
+  width: 100%;
+  margin-top: 5px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.div-block-312720 {
+  width: 50%;
+}
+
+.button-211175 {
+  padding: 10px 30px;
+  background-color: #f8981d;
+  font-family: 'PT Serif', serif;
+  font-size: 18px;
+  line-height: 28px;
+}
+
+.div-block-312721 {
+  height: 30vh;
+  margin-top: 20px;
+  border-right: 5px solid #f8981d;
+  border-bottom: 5px solid #f8981d;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+}
+
+.image-32620 {
+  width: 100%;
+  height: 100%;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+}
+
+.tab-link-tab-1 {
+  display: flex;
+  width: 150px;
+  height: 50px;
+  padding: 0px;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  background-image: linear-gradient(68deg, #00cde5, #1a2a83 71%, #1c1c7b);
+  font-family: 'Droid Serif', serif;
+  color: #fff;
+  text-transform: uppercase;
+}
+
+.tab-link-tab-1.w--current {
+  display: flex;
+  width: 150px;
+  height: 50px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  background-image: linear-gradient(113deg, #1c1c7b 26%, #00cde5);
+  font-family: 'Droid Serif', serif;
+  color: #fff;
+  text-transform: uppercase;
+}
+
+.text-block-15609 {
+  color: #fff;
+  font-size: 17px;
+}
+
+.image-32621 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  right: 0%;
+  bottom: 0%;
+  width: 75%;
+  opacity: 0;
+}
+
+.tabs {
+  padding-right: 20px;
+  padding-left: 20px;
+}
+
+.dropdown-link-10 {
+  position: relative;
+  z-index: 25;
+  display: flex;
+  padding: 10px 12px;
+  align-items: center;
+  border-style: none;
+  border-width: 1px;
+  border-color: #ececec;
+  transition: all 200ms ease;
+  color: #283338;
+  font-size: 16px;
+  text-decoration: none;
+}
+
+.dropdown-link-10:hover {
+  background-color: #1c1c7b;
+  color: #fff;
+}
+
+.dropdown-link-10.border {
+  padding: 10px;
+  align-items: flex-start;
+  border-style: none;
+  border-color: #000;
+  font-family: 'PT Serif', serif;
+  font-size: 18px;
+}
+
+.dropdown-link-10.border:hover {
+  border-bottom-color: #f8981d;
+  background-color: #1c1c7b;
+  color: #fff;
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.navlink-2 {
+  font-family: 'PT Serif', serif;
+  color: #fff;
+  font-size: 17px;
+  line-height: 25px;
+  font-weight: 700;
+}
+
+.navlink-2:hover {
+  color: #fff;
+}
+
+.navlink-2.w--current {
+  color: #fff;
+}
+
+.link-142 {
+  margin-left: 10px;
+  font-family: 'PT Serif', serif;
+  color: #eed96c;
+  font-size: 21px;
+  line-height: 25px;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.cnc-navigation-2 {
+  position: fixed;
+  width: 100%;
+  padding: 10px 20px 0px;
+  background-color: transparent;
+  background-image: none;
+}
+
+.div-block-312742 {
+  display: flex;
+  width: 50%;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.link-143 {
+  font-family: 'Fa solid 900', sans-serif;
+  color: #fff;
+}
+
+.header-wrap-3 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.header-wrap-3.mb {
+  margin-bottom: 40px;
+}
+
+.link-block {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  overflow: hidden;
+  width: 170px;
+  height: 55px;
+  padding-left: 20px;
+  justify-content: flex-start;
+  align-items: center;
+  border-radius: 50px;
+  background-color: #1c1c7b;
+  font-family: 'PT Sans', sans-serif;
+  color: #fff;
+  font-size: 17px;
+  font-weight: 200;
+  text-decoration: none;
+}
+
+.breadcrumb-sec {
+  height: 40vh;
+  background-image: url('../images/bd.png'), linear-gradient(76deg, #1c1c7b 26%, #00cde5);
+  background-position: 82px 2px, 0px 0px;
+  background-size: cover, auto;
+  background-repeat: no-repeat, repeat;
+}
+
+.div-block-312738 {
+  display: flex;
+  height: 50px;
+  justify-content: center;
+  align-items: center;
+  background-color: #1c1c7b;
+  font-family: 'Droid Serif', serif;
+  color: #fff;
+}
+
+.div-block-312738._2 {
+  border-top-right-radius: 10px;
+}
+
+.div-block-312738._1 {
+  border-top-left-radius: 10px;
+}
+
+.bold-text-331 {
+  color: #fff;
+  font-weight: 400;
+}
+
+.text-block-15614 {
+  font-family: Lato, sans-serif;
+  color: #fff;
+  font-size: 17px;
+  line-height: 25px;
+}
+
+.text-block-15614._1 {
+  margin-top: 10px;
+}
+
+.tabs-menu {
+  display: flex;
+  padding-left: 20px;
+}
+
+.text-block-15613 {
+  margin-top: 20px;
+  font-family: Lato, sans-serif;
+  color: #fff;
+  font-size: 17px;
+  line-height: 25px;
+  text-align: center;
+}
+
+.text-block-15629 {
+  font-family: 'Fa solid 900', sans-serif;
+  font-size: 50px;
+  line-height: 60px;
+}
+
+.section-13 {
+  position: relative;
+  display: flex;
+  height: 70vh;
+  padding-right: 20px;
+  padding-left: 20px;
+  justify-content: center;
+  align-items: center;
+  background-image: url('../images/m.PNG'), linear-gradient(180deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../images/video-bg-1-1-1.jpg');
+  background-position: -7% -50%, 0px 0px, 50% 50%;
+  background-size: auto, auto, cover;
+  background-repeat: no-repeat, repeat, repeat;
+  background-attachment: scroll, scroll, fixed;
+}
+
+.icon-27 {
+  color: #fff;
+}
+
+.div-block-312744 {
+  display: flex;
+  width: 100%;
+  height: 100%;
+  max-width: 1300px;
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: flex-start;
+}
+
+.paragraph-2218 {
+  margin-top: 20px;
+  font-family: Lato, sans-serif;
+  color: #fff;
+  font-size: 17px;
+  line-height: 25px;
+  text-align: center;
+}
+
+.div-block-312748 {
+  display: flex;
+  width: 70px;
+  height: 70px;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  background-color: #eee;
+  color: #1c1c7b;
+}
+
+.container-1291 {
+  max-width: 1300px;
+}
+
+.cnc-question-section-2 {
+  position: relative;
+  height: 40vh;
+  margin-bottom: 0px;
+  padding-top: 40px;
+  padding-right: 20px;
+  padding-left: 20px;
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.54), rgba(0, 0, 0, 0.54)), url('../images/cta2.jpg');
+  background-position: 0px 0px, 50% 50%;
+  background-size: auto, cover;
+}
+
+.text-block-15630 {
+  color: #fff;
+  font-size: 17px;
+}
+
+.text-block-15628 {
+  font-family: 'Fa solid 900', sans-serif;
+  color: #00cde5;
+  font-size: 21px;
+  line-height: 25px;
+}
+
+.heading-7251 {
+  font-family: 'Droid Serif', serif;
+  color: #fff;
+  font-size: 40px;
+  line-height: 50px;
+}
+
+.text-block-15489 {
+  font-family: 'Droid Serif', serif;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.section-12 {
+  padding: 100px 20px 300px;
+}
+
+.div-block-312747 {
+  display: flex;
+  width: 32%;
+  height: 370px;
+  padding-top: 0px;
+  padding-right: 20px;
+  padding-left: 20px;
+  flex-direction: column;
+  justify-content: center;
+  border-radius: 21px;
+  background-color: #fff;
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2);
+}
+
+.sub-title {
+  display: flex;
+  margin-bottom: 8px;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.white-bar {
+  width: 55px;
+  height: 1px;
+  margin-left: 10px;
+  background-color: #fff;
+}
+
+.image-32622 {
+  position: relative;
+  width: 75%;
+  opacity: 1;
+}
+
+.div-block-312746 {
+  position: absolute;
+  left: 0%;
+  top: -41%;
+  right: 0%;
+  bottom: auto;
+  display: flex;
+  width: 90%;
+  max-width: 1300px;
+  margin-right: auto;
+  margin-left: auto;
+  justify-content: space-between;
+}
+
+.brand-4 {
+  top: -7px;
+  width: 25%;
+}
+
+.div-block-312749 {
+  display: flex;
+  width: 50%;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.text-block-15624 {
+  color: #fff;
+}
+
+.div-block-312741 {
+  width: 40%;
+}
+
+.div-block-312404 {
+  position: absolute;
+  left: 94px;
+  z-index: -1;
+  width: 70px;
+  height: 44px;
+  border-radius: 50px;
+  background-color: #00cde5;
+}
+
+.heading-3 {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-family: 'Droid Serif', serif;
+  color: #000;
+  font-size: 40px;
+  line-height: 50px;
+}
+
+.link-block-48 {
+  display: flex;
+  width: 40%;
+}
+
+.link-block-48.w--current {
+  width: 40%;
+  justify-content: center;
+  align-items: center;
+}
+
+.tab-link-tab-2 {
+  display: flex;
+  width: 150px;
+  height: 50px;
+  margin-left: 20px;
+  padding: 0px;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  background-image: linear-gradient(90deg, #00cde5, #1b207d 70%, #1c1c7b);
+  font-family: 'Droid Serif', serif;
+  color: #fff;
+  text-transform: uppercase;
+}
+
+.tab-link-tab-2.w--current {
+  margin-left: 20px;
+  background-image: linear-gradient(126deg, #1c1c7b 38%, #00cde5);
+  font-family: 'Droid Serif', serif;
+  color: #fff;
+  text-transform: uppercase;
+}
+
+.tab-pane-tab-1 {
+  padding: 40px 20px;
+}
+
+.text-block-15627 {
+  font-family: Lato, sans-serif;
+  color: #000;
+  font-size: 17px;
+  line-height: 25px;
+  font-weight: 700;
+  text-align: center;
+}
+
+.div-block-312750 {
+  display: flex;
+  width: 48%;
+  height: 50px;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+.div-block-312740 {
+  display: flex;
+  width: 100%;
+  max-width: 1300px;
+  margin-right: auto;
+  margin-left: auto;
+  justify-content: center;
+  align-items: center;
+}
+
+.div-block-312751 {
+  display: flex;
+  width: 50%;
+  height: 40vh;
+  padding-top: 75px;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.div-block-312739 {
+  display: flex;
+  height: 50px;
+  justify-content: center;
+  align-items: center;
+  border-top: 1px solid rgba(0, 205, 229, 0.36);
+}
+
+.div-block-312752 {
+  display: flex;
+  width: 100%;
+  max-width: 1300px;
+  margin-bottom: 20px;
+  padding-left: 0px;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading-7252 {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-size: 17px;
+  line-height: 25px;
+}
+
+.text-block-15631 {
+  margin-left: 10px;
+  color: #d29751;
+  font-size: 21px;
+  line-height: 25px;
+  font-weight: 700;
+}
+
+.div-block-312753 {
+  display: flex;
+  width: 100%;
+  height: 100%;
+  padding-right: 20px;
+  padding-left: 20px;
+  align-items: center;
+}
+
+.container-1283 {
+  max-width: 1300px;
+}
+
+.div-block-312754 {
+  position: absolute;
+  left: auto;
+  top: auto;
+  right: 0%;
+  bottom: 0%;
+  width: 500px;
+  height: 100px;
+  background-image: url('../images/cta-bg.png');
+  background-position: 0px 0px;
+  background-size: auto;
+}
+
+.heading-7253 {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-family: Lato, sans-serif;
+  color: #82828a;
+  text-transform: uppercase;
+}
+
+.heading-7254 {
+  font-family: 'Droid Serif', serif;
+  color: #000;
+  font-size: 20px;
+}
+
+.nav-menu-3 {
+  display: flex;
+  align-items: center;
+}
+
+.grid {
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  grid-column-gap: 0px;
+  grid-row-gap: 0px;
+  -ms-grid-columns: 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
+  border-radius: 10px;
+  box-shadow: 0 0 20px 0 rgba(0, 205, 229, 0.23);
+}
+
+.nav-content-wrap-4 {
+  display: flex;
+  width: 100%;
+  margin-left: 5px;
+  padding-left: 0px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  text-align: center;
+}
+
+.ext {
+  height: 84px;
+  background-image: linear-gradient(104deg, #1c1c7b 34%, #00cde5);
+}
+
+.mobile-navigation-2 {
+  display: none;
+}
+
+.sub-title-bar {
+  width: 35px;
+  height: 3px;
+  margin-left: 10px;
+  background-color: #00cde5;
+  background-image: linear-gradient(90deg, #1c1c7b, #00cde5);
+}
+
+.section-7 {
+  display: flex;
+  height: 50vh;
+  padding-right: 20px;
+  padding-left: 20px;
+  justify-content: center;
+  align-items: center;
+  background-color: #1c1c7b;
+  background-image: linear-gradient(180deg, rgba(28, 28, 123, 0.78), rgba(28, 28, 123, 0.78)), url('../images/footer-bg-1.png');
+  background-position: 0px 0px, 50% 50%;
+  background-size: auto, cover;
+}
+
+.div-block-312745 {
+  display: flex;
+  width: 25px;
+  height: 25px;
+  justify-content: center;
+  align-items: center;
+  color: #1c1c7b;
+}
+
+.tab-pane-tab-2 {
+  padding: 40px 20px;
+}
+
+.div-block-312755 {
+  display: flex;
+  margin-top: 20px;
+  justify-content: flex-start;
+}
+
+.heading-7255 {
+  font-family: 'PT Serif', serif;
+  color: #f3b05b;
+  font-size: 25px;
+  line-height: 35px;
+}
+
+.list {
+  font-family: Lato, sans-serif;
+  font-size: 17px;
+  line-height: 30px;
+}
+
+.bold-text-336 {
+  font-size: 21px;
+  font-weight: 400;
+}
+
+.bold-text-337 {
+  font-weight: 400;
+}
+
+.bold-text-338 {
+  font-weight: 400;
+}
+
+.bold-text-339 {
+  font-weight: 400;
+}
+
+.bold-text-340 {
+  font-weight: 700;
+}
+
+.bold-text-341 {
+  font-weight: 700;
+}
+
+.bold-text-342 {
+  font-weight: 400;
+}
+
+.div-block-312756 {
+  overflow: hidden;
+  margin-left: 20px;
+}
+
+.bold-text-343 {
+  font-weight: 400;
+}
+
+.bold-text-344 {
+  font-weight: 400;
+}
+
+.bold-text-345 {
+  font-weight: 400;
+}
+
+.bold-text-346 {
+  font-weight: 400;
+}
+
+.bold-text-347 {
+  font-weight: 700;
+}
+
+.bold-text-348 {
+  font-weight: 700;
+}
+
+@media screen and (min-width: 1280px) {
+  .h-3 {
+    color: #000;
+  }
+
+  .h-3-2 {
+    color: #000;
+  }
+
+  .heading-1 {
+    font-size: 37px;
+    line-height: 44px;
+  }
+
+  .line-separator {
+    margin-bottom: 20px;
+  }
+
+  .fist-iamge:hover {
+    transform: scale(1.1);
+  }
+
+  .footer-flex-container-7 {
+    margin-top: 20px;
+  }
+
+  .car1._2.first {
+    border-style: solid;
+  }
+
+  .h-3-3 {
+    color: #000;
+  }
+
+  .container-1280 {
+    max-width: 1300px;
+  }
+
+  .div-block-31790 {
+    height: 50vh;
+  }
+
+  .button-211169 {
+    padding: 15px 30px;
+    font-family: Lato, sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+  }
+
+  .paragraph-2210 {
+    margin-bottom: 0px;
+    padding-bottom: 20px;
+  }
+
+  .breadcrumb-sec {
+    background-image: url('../images/bd.png'), linear-gradient(76deg, #1c1c7b 26%, #00cde5);
+  }
+
+  .div-block-312738 {
+    background-color: #1c1c7b;
+    box-shadow: none;
+    color: #fff;
+  }
+
+  .container-1291 {
+    max-width: 1300px;
+  }
+
+  .cnc-question-section-2 {
+    overflow: hidden;
+  }
+
+  .div-block-312746 {
+    top: -38%;
+  }
+
+  .tab-pane-tab-1 {
+    padding-right: 20px;
+    padding-bottom: 40px;
+    padding-left: 20px;
+  }
+
+  .text-block-15627 {
+    font-family: Lato, sans-serif;
+    color: #000;
+    font-size: 17px;
+    line-height: 25px;
+    text-align: center;
+  }
+
+  .div-block-312751 {
+    height: 50vh;
+  }
+
+  .div-block-312739 {
+    display: flex;
+    height: 50px;
+    justify-content: center;
+    align-items: center;
+    border-top: 1px solid rgba(0, 205, 229, 0.22);
+    background-color: #fff;
+  }
+
+  .heading-7252 {
+    font-size: 17px;
+    line-height: 25px;
+  }
+
+  .grid {
+    padding-right: 0px;
+    padding-left: 0px;
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+    -ms-grid-columns: 0.75fr 1fr 1fr;
+    grid-template-columns: 0.75fr 1fr 1fr;
+    -ms-grid-rows: auto auto auto auto auto auto auto auto;
+    grid-template-rows: auto auto auto auto auto auto auto auto;
+    background-color: #fff;
+    box-shadow: 0 0 20px -6px #1c1c7b;
+  }
+}
+
+@media screen and (min-width: 1440px) {
+  .div-block-11 {
+    left: 45px;
+  }
+
+  .right-down {
+    width: 330px;
+  }
+
+  .left-down {
+    height: 250px;
+  }
+
+  .left-up {
+    width: 330px;
+  }
+
+  .right-up {
+    height: 250px;
+  }
+
+  .div-block-312340 {
+    left: 0%;
+  }
+
+  .heading-1 {
+    font-size: 37px;
+    line-height: 44px;
+  }
+
+  .cnc-service-section {
+    background-position: 121% -45%;
+  }
+
+  .footer-container {
+    overflow: visible;
+  }
+
+  .div-block-312624 {
+    padding-left: 0px;
+  }
+
+  .car1 {
+    height: 13vh;
+  }
+
+  .car1:hover {
+    background-color: #fc5404;
+  }
+
+  .car1._2 {
+    height: 13vh;
+    background-color: transparent;
+  }
+
+  .car1._2:hover {
+    background-color: #e81e2a;
+  }
+
+  .car1._2.first:hover {
+    background-color: #fff;
+  }
+
+  .div-block-312456 {
+    padding-bottom: 20px;
+  }
+
+  .btn_text {
+    font-size: 17px;
+  }
+
+  .about-div {
+    max-width: 1300px;
+    justify-content: space-between;
+  }
+
+  .container-1280 {
+    max-width: 1300px;
+  }
+
+  .paragraph-2210 {
+    padding-top: 10px;
+    padding-bottom: 0px;
+  }
+
+  .navigation-dropdown-3.w--open {
+    right: -93.578px;
+  }
+
+  .chat-bolt-div {
+    z-index: 999;
+    height: 80px;
+  }
+
+  .breadcrumb-sec {
+    background-image: url('../images/bd.png'), linear-gradient(76deg, #1c1c7b 26%, #00cde5);
+    background-position: 82px 0px, 0px 0px;
+    background-size: cover, auto;
+    background-repeat: no-repeat, repeat;
+  }
+
+  .container-1291 {
+    max-width: 1300px;
+  }
+
+  .div-block-312746 {
+    top: -38%;
+  }
+
+  .div-block-312749 {
+    width: 41%;
+  }
+
+  .div-block-312752 {
+    width: 100%;
+    padding-left: 0px;
+    justify-content: center;
+  }
+}
+
+@media screen and (min-width: 1920px) {
+  .card-2.c1.z._1 {
+    padding-top: 20px;
+    border-style: none;
+    box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.06);
+  }
+
+  .card-2.c1.z._1:hover {
+    padding-top: 20px;
+    box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.06);
+  }
+
+  .container-1287 {
+    max-width: 1300px;
+  }
+
+  .p-card-2.center {
+    margin-bottom: 20px;
+  }
+
+  .card-content-wrapper:hover {
+    font-size: 17px;
+    line-height: 25px;
+  }
+
+  .div-block-312340 {
+    left: 11%;
+  }
+
+  .heading-1 {
+    font-size: 45px;
+    line-height: 50px;
+  }
+
+  .cnc-service-section {
+    background-position: 115% -40%;
+  }
+
+  .link-block-54 {
+    width: 50%;
+  }
+
+  .link-block-54.w--current {
+    width: 50%;
+  }
+
+  .car1:hover {
+    background-color: #e81e2a;
+  }
+
+  .div-block-79 {
+    height: 63vh;
+  }
+
+  .btn-_arrow_line {
+    margin-left: 14px;
+  }
+
+  .about-div {
+    max-width: 1300px;
+    justify-content: space-between;
+  }
+
+  .about-content {
+    width: 48%;
+  }
+
+  .about-content.about-main {
+    width: 100%;
+  }
+
+  .heading-7229 {
+    width: 100%;
+  }
+
+  .container-1280 {
+    max-width: 1400px;
+  }
+
+  .link-25._1:hover {
+    color: #bd9300;
+  }
+
+  .link-25._1:hover {
+    color: #bd9300;
+  }
+
+  .breadcrumb-sec {
+    background-image: url('../images/bd.png'), linear-gradient(76deg, #1c1c7b 26%, #00cde5);
+    background-position: 73px 0px, 0px 0px;
+    background-size: auto, auto;
+    background-repeat: no-repeat, repeat;
+  }
+
+  .section-13 {
+    background-image: url('../images/m.PNG'), linear-gradient(180deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../images/video-bg-1-1-1.jpg');
+    background-position: -2% -10%, 0px 0px, 50% 50%;
+    background-size: auto, auto, cover;
+    background-repeat: no-repeat, repeat, repeat;
+    background-attachment: scroll, scroll, fixed;
+  }
+
+  .container-1291 {
+    max-width: 1400px;
+  }
+
+  .section-12 {
+    padding-bottom: 220px;
+  }
+
+  .div-block-312746 {
+    top: -29%;
+  }
+
+  .div-block-312749 {
+    width: 41%;
+  }
+
+  .div-block-312752 {
+    max-width: 1400px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 0px;
+    justify-content: center;
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .div-block-2 {
+    width: 100%;
+  }
+
+  .cnc-navigation {
+    display: none;
+  }
+
+  .navlink._1 {
+    color: #000;
+  }
+
+  .nav-menu {
+    height: 100vh;
+    padding-left: 20px;
+    background-color: #fff;
+  }
+
+  .cnc-about-page-section {
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }
+
+  .cnc-about-div {
+    display: block;
+  }
+
+  .div-block-8 {
+    width: 100%;
+    justify-content: space-between;
+  }
+
+  .div-block-9 {
+    width: 340px;
+    height: 250px;
+  }
+
+  .div-block-9.seconnd._1 {
+    left: 107px;
+  }
+
+  .div-block-10 {
+    width: 48%;
+  }
+
+  .div-block-11 {
+    left: -19px;
+  }
+
+  .div-block-312516 {
+    width: 100%;
+    margin-top: 100px;
+    padding-top: 40px;
+  }
+
+  .cnc-feature-section {
+    padding-bottom: 100px;
+  }
+
+  .div-block-312586 {
+    display: block;
+  }
+
+  .div-block-312587 {
+    width: 70%;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .div-block-312587.second1 {
+    top: 20px;
+  }
+
+  .div-block-312587.thrd {
+    top: 40px;
+  }
+
+  .div-block-312529 {
+    left: 32px;
+    top: 59.047px;
+  }
+
+  .div-block-312529.top {
+    top: 78.047px;
+    height: 200px;
+  }
+
+  .paragraph-2201 {
+    color: #333;
+  }
+
+  .cnc-hero-section2 {
+    height: auto;
+    padding-top: 20px;
+  }
+
+  .div-block-312605 {
+    display: block;
+  }
+
+  .div-block-312606 {
+    left: 0px;
+    width: 100%;
+  }
+
+  .div-block-312608 {
+    position: static;
+    width: 100%;
+    margin-top: 20px;
+    justify-content: space-between;
+  }
+
+  .icon {
+    color: #fff;
+  }
+
+  .menu-button {
+    background-color: #f8981d;
+  }
+
+  .menu-button.w--open {
+    background-color: #f8981d;
+  }
+
+  .gallery-animation-all-over {
+    min-height: 256px;
+  }
+
+  .gallery-animation-all-over.image-animation {
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .lottie-animation-8 {
+    width: 416px;
+  }
+
+  .card-slide-2 {
+    width: 50%;
+  }
+
+  .testimonial-text {
+    position: static;
+    width: 100%;
+    text-align: center;
+  }
+
+  .div-block-312340 {
+    left: -13%;
+    top: 73%;
+  }
+
+  .heading-1 {
+    text-align: left;
+  }
+
+  .card-slider-2 {
+    display: block;
+  }
+
+  .div-block-312614 {
+    padding-right: 10px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+  }
+
+  .left-arrow-3 {
+    left: -28%;
+    bottom: 2%;
+  }
+
+  .mask-2 {
+    overflow: hidden;
+    width: 100%;
+    height: 550px;
+  }
+
+  .div-block-312615 {
+    padding-right: 20px;
+    padding-left: 10px;
+  }
+
+  .slide-nav-4 {
+    top: 404px;
+  }
+
+  .slide-18 {
+    width: 100%;
+  }
+
+  .right-arrow-3 {
+    left: 10%;
+    bottom: 2%;
+  }
+
+  .div-block-30765 {
+    display: block;
+    margin-top: 0px;
+    justify-content: space-between;
+  }
+
+  .slide-23 {
+    margin-left: 0px;
+  }
+
+  .div-block-30768 {
+    left: -12px;
+  }
+
+  .slider-8 {
+    top: 0px;
+    height: 48vh;
+  }
+
+  .div-block-30766 {
+    width: 100%;
+    height: 320px;
+    margin-top: 20px;
+    margin-right: auto;
+    margin-left: auto;
+    border-top-left-radius: 10px;
+  }
+
+  .text-block-15126 {
+    line-height: 30px;
+  }
+
+  .div-block-30374 {
+    width: 100%;
+  }
+
+  .link-block-54.w--current {
+    width: 50%;
+  }
+
+  .div-block-31305 {
+    width: 100%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .footer-heading-8 {
+    text-align: left;
+  }
+
+  .footer-heading-8.moovit {
+    text-align: left;
+  }
+
+  .link-block-62 {
+    width: 100%;
+  }
+
+  .link-block-66 {
+    right: 2%;
+    bottom: 21%;
+  }
+
+  .div-gmail {
+    margin-left: 0px;
+  }
+
+  .footer-flex-container-7 {
+    display: -ms-grid;
+    display: grid;
+    grid-auto-columns: 1fr;
+    grid-column-gap: 16px;
+    grid-row-gap: 50px;
+    -ms-grid-columns: 1fr 1fr;
+    grid-template-columns: 1fr 1fr;
+    -ms-grid-rows: auto auto;
+    grid-template-rows: auto auto;
+  }
+
+  .div-block-30901 {
+    width: 30%;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-end;
+  }
+
+  .div-block-30902.f {
+    margin-right: 10px;
+  }
+
+  .div-block-30902.twitter {
+    margin-top: 10px;
+    margin-left: 0px;
+  }
+
+  .div-block-30902.inst {
+    margin-bottom: 0px;
+    margin-left: 10px;
+  }
+
+  .div-block-30902.twitter {
+    margin-top: 10px;
+    margin-left: 0px;
+  }
+
+  .div-block-30902.inst {
+    margin-bottom: 0px;
+    margin-left: 10px;
+  }
+
+  .div-block-30902.f {
+    margin-right: 10px;
+  }
+
+  .div-block-312617 {
+    height: 175px;
+  }
+
+  .div-block-312627 {
+    flex-direction: column-reverse;
+  }
+
+  .div-block-312628 {
+    width: 100%;
+    margin-top: 40px;
+  }
+
+  .div-block-312629 {
+    width: 100%;
+  }
+
+  .heading-7236 {
+    font-size: 35px;
+    line-height: 45px;
+  }
+
+  .div-block-312637 {
+    display: -ms-grid;
+    display: grid;
+    grid-auto-columns: 1fr;
+    grid-column-gap: 16px;
+    grid-row-gap: 16px;
+    -ms-grid-columns: 1fr 1fr;
+    grid-template-columns: 1fr 1fr;
+    -ms-grid-rows: auto auto;
+    grid-template-rows: auto auto;
+  }
+
+  .div-block-312638 {
+    width: 100%;
+    margin-top: 40px;
+  }
+
+  .div-block-312641 {
+    display: none;
+  }
+
+  .div-block-312642 {
+    display: none;
+  }
+
+  .div-block-312643 {
+    display: none;
+  }
+
+  .div-block-312644 {
+    display: none;
+  }
+
+  .div-block-312646 {
+    -ms-grid-columns: 1fr 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+  }
+
+  .contactdiv {
+    flex-direction: column;
+  }
+
+  .contactdiv._123 {
+    width: 80%;
+  }
+
+  .div-block-79 {
+    margin-top: 30px;
+    border: 1px solid #eaeaea;
+  }
+
+  .div-block-312465 {
+    width: 80%;
+  }
+
+  .div-block-270 {
+    width: 100%;
+    max-width: none;
+  }
+
+  .div-block-312651 {
+    top: 7%;
+    width: 95%;
+    height: 95%;
+  }
+
+  .about-div {
+    flex-direction: column;
+  }
+
+  .about-content {
+    width: 80%;
+    margin-top: 40px;
+  }
+
+  .div-block-312511 {
+    flex-direction: column-reverse;
+  }
+
+  .div-block-312517 {
+    width: 100%;
+    margin-top: 60px;
+  }
+
+  .cnc-service-detail-page {
+    padding: 0px 20px;
+  }
+
+  .cnc-service-detail-page.about {
+    padding-top: 60px;
+    padding-bottom: 20px;
+  }
+
+  .heading-7229 {
+    margin-top: 0px;
+  }
+
+  .div-block-312655 {
+    width: 100%;
+    padding-top: 0px;
+  }
+
+  .cnc-question-section {
+    height: 40vh;
+  }
+
+  .div-block-31790 {
+    padding-top: 60px;
+    justify-content: flex-start;
+  }
+
+  .heading-7213 {
+    text-align: center;
+  }
+
+  .button-211169 {
+    padding-right: 30px;
+    padding-left: 30px;
+    background-color: #31a3dd;
+  }
+
+  .paragraph-2210 {
+    text-align: justify;
+  }
+
+  .div-block-312660 {
+    height: 74vh;
+  }
+
+  .div-block-312661 {
+    display: -ms-grid;
+    display: grid;
+    grid-auto-columns: 1fr;
+    grid-column-gap: 16px;
+    grid-row-gap: 16px;
+    -ms-grid-columns: 1fr 1fr;
+    grid-template-columns: 1fr 1fr;
+    -ms-grid-rows: auto auto;
+    grid-template-rows: auto auto;
+  }
+
+  .div-block-312662 {
+    width: 100%;
+  }
+
+  .div-block-312663 {
+    width: 100%;
+  }
+
+  .div-block-312664 {
+    width: 100%;
+  }
+
+  .div-block-312665 {
+    width: 100%;
+  }
+
+  .slide-nav-5 {
+    top: 662px;
+  }
+
+  .slide-24 {
+    height: 500px;
+  }
+
+  .mask-3 {
+    height: 700px;
+  }
+
+  .div-block-312666 {
+    display: none;
+  }
+
+  .div-block-312668 {
+    display: block;
+  }
+
+  .div-block-312669 {
+    width: 100%;
+    margin-top: 40px;
+  }
+
+  .div-block-312672 {
+    width: 100%;
+  }
+
+  .nav-content-wrap-3 {
+    padding-left: 0px;
+  }
+
+  .icon-wrap-2 {
+    display: none;
+  }
+
+  .dropdown-wrapper-2 {
+    position: relative;
+  }
+
+  .div-block-312566 {
+    z-index: 99999;
+  }
+
+  .dropdown-5 {
+    display: block;
+  }
+
+  .dropdown-5._1 {
+    display: block;
+    padding-left: 20px;
+  }
+
+  .dropdown-5._1.hide1 {
+    display: none;
+  }
+
+  .navigation-dropdown-3.w--open {
+    left: 5px;
+    right: auto;
+  }
+
+  .navigation-dropdown-3.left.w--open {
+    width: 200px;
+  }
+
+  .navigation-dropdown-3.left {
+    position: relative;
+  }
+
+  .navigation-dropdown-3.left.w--open {
+    width: 200px;
+  }
+
+  .navigation-dropdown-3.left.size {
+    width: 300px;
+    min-width: 200px;
+  }
+
+  .dropdown {
+    padding-right: 40px;
+    padding-left: 0px;
+  }
+
+  .link-25 {
+    color: #000;
+  }
+
+  .link-25._1 {
+    font-family: 'Droid Serif', serif;
+    color: #000;
+    line-height: 25px;
+    font-weight: 400;
+  }
+
+  .link-25._1:hover {
+    color: #000;
+  }
+
+  .icon-23 {
+    color: #000;
+  }
+
+  .icon-23._1._2 {
+    color: #000;
+  }
+
+  .icon-23._1 {
+    font-family: 'Droid Serif', serif;
+    color: #000;
+    font-weight: 400;
+  }
+
+  .icon-23._1:hover {
+    color: #000;
+  }
+
+  .cnc-industry1-section {
+    padding-bottom: 200px;
+  }
+
+  .div-block-312677 {
+    display: -ms-grid;
+    display: grid;
+    grid-auto-columns: 1fr;
+    grid-column-gap: 16px;
+    grid-row-gap: 16px;
+    -ms-grid-columns: 1fr 1fr;
+    grid-template-columns: 1fr 1fr;
+    -ms-grid-rows: auto auto;
+    grid-template-rows: auto auto;
+  }
+
+  .div-block-312678 {
+    width: 100%;
+  }
+
+  .div-block-312678.one._1 {
+    margin-top: 0px;
+  }
+
+  .cnc-technologysection {
+    height: auto;
+    margin-top: 0px;
+    padding-top: 40px;
+    padding-bottom: 20px;
+  }
+
+  .cnc-technologysection._1._2 {
+    height: auto;
+  }
+
+  .div-block-312682 {
+    display: block;
+  }
+
+  .div-block-312683 {
+    width: 100%;
+  }
+
+  .div-block-312684 {
+    width: 100%;
+    margin-top: 20px;
+  }
+
+  .mobile-navigation {
+    display: none;
+    padding: 20px;
+    background-color: transparent;
+  }
+
+  .mobile-navigation1 {
+    display: block;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #fff;
+  }
+
+  .menu-button-2 {
+    background-color: #fa981b;
+    color: #fff;
+  }
+
+  .menu-button-2.w--open {
+    background-color: #000;
+  }
+
+  .nav-menu-2 {
+    height: 100vh;
+    flex-direction: column;
+    align-items: flex-start;
+    background-color: #fff;
+  }
+
+  .nav-link {
+    font-size: 17px;
+    line-height: 25px;
+    font-weight: 700;
+  }
+
+  .nav-link.w--current {
+    color: #f8981d;
+  }
+
+  .dropdown-6 {
+    width: 100%;
+  }
+
+  .text-block-15607 {
+    font-size: 17px;
+    line-height: 25px;
+    font-weight: 700;
+  }
+
+  .icon-24 {
+    font-size: 17px;
+    line-height: 25px;
+    font-weight: 700;
+  }
+
+  .dropdown-list-2 {
+    position: relative;
+  }
+
+  .dropdown-list-2.w--open {
+    width: 250px;
+    background-color: #fff;
+    box-shadow: 0 0 20px 0 #ececec;
+  }
+
+  .dropdown-toggle {
+    width: 100%;
+  }
+
+  .dropdown-link-5 {
+    font-size: 17px;
+    line-height: 25px;
+  }
+
+  .dropdown-link-6 {
+    border-top: 1px solid #f8981d;
+    border-bottom: 1px solid #f8981d;
+    font-size: 17px;
+    line-height: 25px;
+  }
+
+  .dropdown-link-7 {
+    font-size: 17px;
+    line-height: 25px;
+  }
+
+  .dropdown-link-8 {
+    border-top: 1px solid #f8981d;
+    border-bottom: 1px solid #f8981d;
+    font-size: 17px;
+    line-height: 25px;
+  }
+
+  .dropdown-link-9 {
+    font-size: 17px;
+    line-height: 25px;
+  }
+
+  .div-block-312685 {
+    width: 30%;
+    padding-left: 20px;
+    justify-content: flex-start;
+  }
+
+  .brand-2 {
+    width: 30%;
+  }
+
+  .image-32611 {
+    margin-top: 10px;
+  }
+
+  .chat-bolt-div {
+    position: fixed;
+    bottom: 10%;
+    height: 100px;
+    justify-content: center;
+  }
+
+  .div-block-312686 {
+    width: 100%;
+  }
+
+  .div-block-312443 {
+    width: 45%;
+  }
+
+  .divmainclass {
+    display: -ms-grid;
+    display: grid;
+    flex-direction: column;
+    grid-auto-columns: 1fr;
+    grid-column-gap: 16px;
+    grid-row-gap: 16px;
+    -ms-grid-columns: 1fr 1fr;
+    grid-template-columns: 1fr 1fr;
+    -ms-grid-rows: auto auto;
+    grid-template-rows: auto auto;
+  }
+
+  .slidersection {
+    margin-top: 350px;
+  }
+
+  .slidersection._147 {
+    height: auto;
+    margin-top: 0px;
+  }
+
+  .div-block-312439 {
+    width: 80%;
+    margin-bottom: 30px;
+  }
+
+  .div-block-312688 {
+    flex-direction: column;
+  }
+
+  .div-block-312689 {
+    width: 100%;
+  }
+
+  .dropdown-link-10.border:hover {
+    background-color: #1c1c7b;
+  }
+
+  .cnc-navigation-2 {
+    display: none;
+  }
+
+  .div-block-312743 {
+    z-index: 99999;
+    width: 300px;
+    min-width: 300px;
+  }
+
+  .link-block.left1 {
+    margin-left: 20px;
+  }
+
+  .brand-3 {
+    width: 30%;
+  }
+
+  .text-block-15613 {
+    line-height: 30px;
+  }
+
+  .icon-27 {
+    font-family: 'Droid Serif', serif;
+    color: #000;
+    font-size: 17px;
+    line-height: 25px;
+  }
+
+  .cnc-question-section-2 {
+    height: 40vh;
+  }
+
+  .text-block-15630 {
+    color: #000;
+  }
+
+  .bold-text-335 {
+    font-weight: 400;
+  }
+
+  .div-block-312749 {
+    width: 100%;
+  }
+
+  .text-block-15624 {
+    font-family: 'Droid Serif', serif;
+    color: #000;
+    font-size: 17px;
+    line-height: 25px;
+    font-weight: 400;
+  }
+
+  .menu-button-3 {
+    background-color: #1c1c7b;
+    color: #fff;
+  }
+
+  .menu-button-3.w--open {
+    background-color: #1c1c7b;
+  }
+
+  .dropdown-toggle-2 {
+    width: 100%;
+    font-weight: 400;
+  }
+
+  .nav-link-3 {
+    font-family: 'Droid Serif', serif;
+    color: #000;
+    font-size: 17px;
+    line-height: 25px;
+  }
+
+  .div-block-312751 {
+    width: 100%;
+    padding-top: 0px;
+    justify-content: flex-start;
+    align-items: center;
+  }
+
+  .image-32623 {
+    width: 100%;
+  }
+
+  .nav-menu-3 {
+    height: 100vh;
+    padding-left: 20px;
+    background-color: #fff;
+  }
+
+  .nav-content-wrap-4 {
+    padding-left: 0px;
+    font-family: 'Droid Serif', serif;
+  }
+
+  .ext {
+    display: none;
+  }
+
+  .mobile-navigation-2 {
+    display: block;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #fff;
+  }
+
+  .nav-menu-4 {
+    height: 100vh;
+    background-color: #fff;
+  }
+
+  .dropdown-list-3 {
+    position: relative;
+  }
+
+  .dropdown-list-3.w--open {
+    width: 300px;
+    min-width: 300px;
+    background-color: #fff;
+    box-shadow: 0 0 20px 0 #ececec;
+  }
+
+  .div-block-312755 {
+    width: 21%;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-end;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .heading-2 {
+    font-size: 50px;
+  }
+
+  .brand {
+    width: 40%;
+  }
+
+  .div-block-312578 {
+    width: 100%;
+  }
+
+  .heading-7228 {
+    font-size: 30px;
+    line-height: 40px;
+  }
+
+  .div-block-312529 {
+    left: 23px;
+    top: 47.047px;
+    height: 250px;
+  }
+
+  .div-block-312529.top {
+    left: 25px;
+    top: 55.047px;
+    height: 250px;
+  }
+
+  .div-block-312606 {
+    display: -ms-grid;
+    display: grid;
+    grid-auto-columns: 1fr;
+    grid-column-gap: 16px;
+    grid-row-gap: 16px;
+    -ms-grid-columns: 1fr 1fr;
+    grid-template-columns: 1fr 1fr;
+    -ms-grid-rows: auto auto;
+    grid-template-rows: auto auto;
+  }
+
+  .div-block-312606.archivements {
+    display: -ms-grid;
+    display: grid;
+    grid-auto-columns: 1fr;
+    grid-column-gap: 16px;
+    grid-row-gap: 16px;
+    -ms-grid-columns: 1fr 1fr;
+    grid-template-columns: 1fr 1fr;
+    -ms-grid-rows: auto auto;
+    grid-template-rows: auto auto;
+  }
+
+  .div-block-312607 {
+    width: 100%;
+  }
+
+  .heading-7233 {
+    font-size: 30px;
+    line-height: 40px;
+  }
+
+  .gallery-animation-all-over {
+    width: 100%;
+    min-height: 337px;
+  }
+
+  .gallery-animation-all-over.image-animation {
+    display: none;
+    width: 100%;
+  }
+
+  .lottie-animation-8 {
+    display: none;
+  }
+
+  .card-slide-2 {
+    width: 100%;
+    padding-right: 3%;
+    padding-left: 3%;
+  }
+
+  .section-230 {
+    padding-top: 6%;
+    padding-bottom: 6%;
+  }
+
+  .testimonial-text {
+    position: static;
+    width: 75%;
+  }
+
+  .heading-1 {
+    font-size: 37px;
+    line-height: 45px;
+  }
+
+  .card-slider-mask {
+    display: block;
+  }
+
+  .card-slider-2 {
+    width: 85%;
+    margin-right: auto;
+    margin-left: auto;
+    padding-bottom: 50px;
+  }
+
+  .cnc-service-section {
+    background-position: 50% -230%;
+  }
+
+  .div-block-312612 {
+    flex-direction: column;
+  }
+
+  .div-block-312613 {
+    width: 100%;
+  }
+
+  .div-block-312614 {
+    display: block;
+  }
+
+  .left-arrow-3 {
+    left: -15%;
+    bottom: -22%;
+  }
+
+  .mask-2 {
+    height: auto;
+  }
+
+  .div-block-312615 {
+    flex-direction: column;
+  }
+
+  .slide-nav-4 {
+    top: 608px;
+  }
+
+  .right-arrow-3 {
+    bottom: -22%;
+  }
+
+  .div-block-30765 {
+    width: 100%;
+  }
+
+  .div-block-30765.left {
+    width: 100%;
+  }
+
+  .slider-8 {
+    top: -230px;
+    height: auto;
+  }
+
+  .slider-8.mobile-hide {
+    top: 0px;
+  }
+
+  .div-block-30766 {
+    height: 250px;
+  }
+
+  .div-block-312616 {
+    width: 100%;
+    height: 300px;
+    margin-top: 100px;
+  }
+
+  .text-block-15126 {
+    margin-top: 20px;
+  }
+
+  .copyright-div {
+    flex-direction: column;
+  }
+
+  .gallery-div {
+    display: flex;
+  }
+
+  .link-block-62 {
+    width: 100%;
+  }
+
+  .div-block-30376 {
+    margin-right: auto;
+    margin-left: 0px;
+  }
+
+  .fist-iamge {
+    width: 100px;
+    height: 100px;
+  }
+
+  .link-block-47 {
+    margin-left: 0px;
+  }
+
+  .link-block-47.left {
+    margin-right: 10px;
+    margin-left: 10px;
+  }
+
+  .footer-flex-container-7 {
+    padding-top: 20px;
+  }
+
+  .div-block-30901 {
+    margin-bottom: 20px;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+  }
+
+  .div-block-30902.f {
+    margin-right: 5px;
+  }
+
+  .div-block-30902.twitter {
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+  }
+
+  .div-block-30902.twitter {
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+  }
+
+  .div-block-30902.f {
+    margin-right: 5px;
+  }
+
+  .link-block-55 {
+    width: 75%;
+  }
+
+  .cnc-footer-section {
+    padding-top: 0px;
+    padding-right: 20px;
+    padding-left: 20px;
+  }
+
+  .div-block-312617 {
+    position: static;
+    display: -ms-grid;
+    display: grid;
+    height: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    grid-auto-columns: 1fr;
+    grid-column-gap: 16px;
+    grid-row-gap: 16px;
+    -ms-grid-columns: 1fr 1fr;
+    grid-template-columns: 1fr 1fr;
+    -ms-grid-rows: auto auto;
+    grid-template-rows: auto auto;
+  }
+
+  .div-block-312618 {
+    width: 100%;
+  }
+
+  .div-block-312620.left1 {
+    width: 100%;
+  }
+
+  .link-block-68 {
+    width: 100%;
+  }
+
+  .link-block-68.center {
+    width: 100%;
+  }
+
+  .heading-7236 {
+    font-size: 30px;
+    line-height: 40px;
+  }
+
+  .div-block-312638 {
+    height: 300px;
+  }
+
+  .div-block-312638.one {
+    height: 300px;
+  }
+
+  .car1._2._1 {
+    width: 75%;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .car1._2._1._3 {
+    width: 75%;
+    margin-top: 20px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .car1._2.first {
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 10px;
+  }
+
+  .car1._2.first._1 {
+    width: 100%;
+  }
+
+  .contactdiv._123 {
+    width: 90%;
+    margin-right: 0px;
+  }
+
+  .div-block-79 {
+    height: 70vh;
+  }
+
+  .link-block-69 {
+    width: 75%;
+  }
+
+  .div-block-80 {
+    margin-right: 20px;
+    margin-left: 20px;
+  }
+
+  .paragraph-2183 {
+    text-align: center;
+  }
+
+  .link-block-70 {
+    width: 75%;
+    margin-top: 20px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .div-block-312465 {
+    width: 90%;
+  }
+
+  .div-block-312458 {
+    flex-direction: column;
+  }
+
+  .div-block-312458._2323 {
+    flex-direction: column;
+  }
+
+  .btn-_arrow_line {
+    width: 30px;
+  }
+
+  .her0_slider_btn {
+    margin-top: 40px;
+  }
+
+  .heading-7239.one {
+    text-align: center;
+  }
+
+  .about-div {
+    flex-direction: column;
+  }
+
+  .about-content {
+    width: 100%;
+    margin-top: 40px;
+  }
+
+  .cnc-service-detail-page {
+    padding-bottom: 20px;
+  }
+
+  .cnc-service-detail-page.about {
+    padding-top: 0px;
+  }
+
+  .heading-7229 {
+    margin-top: 0px;
+  }
+
+  .heading-7213 {
+    padding-right: 10px;
+    padding-left: 10px;
+    font-size: 30px;
+    line-height: 38px;
+  }
+
+  .paragraph-2210 {
+    text-align: justify;
+  }
+
+  .cnc-industry-section {
+    padding-top: 20px;
+  }
+
+  .cnc-industry1-section {
+    padding-bottom: 60px;
+  }
+
+  .mobile-navigation1 {
+    padding-right: 20px;
+    padding-left: 20px;
+  }
+
+  .nav-menu-2 {
+    padding-left: 20px;
+  }
+
+  .div-block-312685 {
+    width: 40%;
+    padding-left: 0px;
+  }
+
+  .brand-2 {
+    width: 40%;
+  }
+
+  .image-32611 {
+    margin-top: 10px;
+  }
+
+  .fixed-chat-bolt {
+    right: 38%;
+    bottom: 16%;
+  }
+
+  .chat-bolt-div {
+    bottom: 10%;
+    height: 100px;
+  }
+
+  .heading-7219 {
+    text-align: center;
+  }
+
+  .slidersection {
+    margin-top: 420px;
+  }
+
+  .div-block-312439 {
+    width: 100%;
+  }
+
+  .brand-3 {
+    width: 40%;
+  }
+
+  .text-block-15613 {
+    margin-top: 20px;
+  }
+
+  .brand-4 {
+    width: 40%;
+  }
+
+  .mobile-navigation-2 {
+    padding-right: 20px;
+  }
+
+  .div-block-312755 {
+    margin-bottom: 20px;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+  }
+}
+
+@media screen and (max-width: 479px) {
+  .cnc-hero-section {
+    height: 80vh;
+  }
+
+  .heri-section-div {
+    padding-top: 100px;
+  }
+
+  .heading {
+    margin-top: 0px;
+  }
+
+  .heading-2 {
+    font-size: 35px;
+    line-height: 50px;
+  }
+
+  .div-block-3 {
+    flex-direction: column;
+  }
+
+  .div-block-4 {
+    width: 100%;
+  }
+
+  .brand {
+    width: 70%;
+  }
+
+  .cnc-about-page-section {
+    padding-top: 20px;
+  }
+
+  .div-block-8 {
+    flex-direction: column;
+  }
+
+  .div-block-9 {
+    width: 280px;
+  }
+
+  .div-block-9.seconnd._1 {
+    left: 0px;
+    width: 275px;
+  }
+
+  .div-block-10 {
+    width: 100%;
+  }
+
+  .div-block-11 {
+    left: 0px;
+    top: 35px;
+    width: 100%;
+  }
+
+  .div-block-12 {
+    bottom: -10%;
+  }
+
+  .paragraph-2 {
+    text-align: justify;
+  }
+
+  .div-block-312578 {
+    width: 100%;
+    margin-top: 0px;
+    flex-direction: column;
+  }
+
+  .heading-7227 {
+    margin-top: 0px;
+    font-size: 20px;
+  }
+
+  .div-block-312580 {
+    width: 100%;
+    margin-top: 10px;
+  }
+
+  .heading-7228 {
+    font-size: 30px;
+  }
+
+  .cnc-feature-section {
+    padding-bottom: 220px;
+  }
+
+  .div-block-312530 {
+    margin-bottom: 20px;
+  }
+
+  .heading-7230 {
+    font-size: 25px;
+    line-height: 35px;
+  }
+
+  .div-block-312587 {
+    width: 100%;
+  }
+
+  .div-block-312587.second1 {
+    top: 63px;
+  }
+
+  .div-block-312587.thrd {
+    top: 135px;
+  }
+
+  .div-block-312529 {
+    left: 17px;
+    top: 84.047px;
+    height: 300px;
+    padding-top: 10px;
+  }
+
+  .div-block-312529.top {
+    left: 17px;
+    top: 90.047px;
+    height: 300px;
+    border-top-style: none;
+    border-bottom-style: solid;
+  }
+
+  .text-block-15479 {
+    font-size: 17px;
+  }
+
+  .div-block-312606 {
+    flex-direction: column;
+    -ms-grid-columns: 1fr;
+    grid-template-columns: 1fr;
+  }
+
+  .div-block-312607 {
+    width: 100%;
+  }
+
+  .div-block-312608 {
+    flex-direction: column;
+  }
+
+  .div-block-312609 {
+    width: 100%;
+  }
+
+  .cnc-video-div {
+    flex-direction: column;
+  }
+
+  .div-block-312610 {
+    width: 100%;
+    height: 200px;
+  }
+
+  .heading-7233 {
+    margin-top: 0px;
+  }
+
+  .div-block-312611 {
+    width: 100%;
+    height: 300px;
+  }
+
+  .gallery-animation-all-over {
+    min-height: auto;
+  }
+
+  .gallery-animation-all-over.image-animation {
+    display: none;
+  }
+
+  .body-2.bottom-margin-30 {
+    line-height: 30px;
+  }
+
+  .card-slide-2 {
+    height: 400px;
+  }
+
+  .testimonial-text {
+    width: 100%;
+  }
+
+  .text-block-15440 {
+    color: #35363a;
+  }
+
+  .heading-1 {
+    font-size: 30px;
+  }
+
+  .bold-text-247 {
+    font-size: 17px;
+  }
+
+  .card-slider-2 {
+    width: 100%;
+  }
+
+  .cnc-service-section {
+    background-position: 50% -207%;
+  }
+
+  .cnc-testimonial-section {
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+
+  .div-block-312612 {
+    justify-content: flex-start;
+  }
+
+  .div-block-312613 {
+    height: auto;
+  }
+
+  .left-arrow-3 {
+    left: -25%;
+    bottom: 7%;
+  }
+
+  .mask-2 {
+    padding-right: 0px;
+    padding-left: 0px;
+  }
+
+  .paragraph-189 {
+    margin-top: 10px;
+  }
+
+  .div-block-312615 {
+    padding-right: 0px;
+    padding-left: 0px;
+  }
+
+  .slide-nav-4 {
+    top: 442px;
+  }
+
+  .right-arrow-3 {
+    left: 25%;
+    bottom: 7%;
+  }
+
+  .div-block-30768 {
+    left: 35%;
+  }
+
+  .slider-8.mobile-hide {
+    display: block;
+    padding-right: 20px;
+  }
+
+  .div-block-30766 {
+    width: 100%;
+    height: auto;
+    padding: 100px 10px 10px;
+  }
+
+  .div-block-312616 {
+    margin-top: 0px;
+  }
+
+  .text-block-15126 {
+    margin-top: 0px;
+    line-height: 30px;
+    text-align: center;
+  }
+
+  .list-footer {
+    justify-content: center;
+    align-items: center;
+  }
+
+  .link-block-54 {
+    width: 75%;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .link-block-54.w--current {
+    width: 100%;
+  }
+
+  .div-block-31305 {
+    display: flex;
+  }
+
+  .footer-heading-8 {
+    margin-top: 20px;
+  }
+
+  .copyright-div {
+    padding-right: 20px;
+  }
+
+  .gallery-div {
+    justify-content: center;
+  }
+
+  .link-block-62 {
+    width: 100%;
+    margin-top: 20px;
+  }
+
+  .div-block-30376 {
+    margin-left: auto;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .link-block-66 {
+    left: auto;
+    right: 2%;
+    bottom: 0.5%;
+  }
+
+  .fist-iamge {
+    width: 130px;
+    height: 130px;
+    margin-right: 10px;
+  }
+
+  .div-block-312400 {
+    justify-content: center;
+  }
+
+  .div-gmail {
+    margin-left: 0px;
+    align-items: flex-start;
+  }
+
+  .link-block-47.left {
+    margin-right: 0px;
+    margin-left: 0px;
+    justify-content: flex-start;
+    align-items: center;
+  }
+
+  .footer-flex-container-7 {
+    display: block;
+    flex-direction: column;
+  }
+
+  .footer-container {
+    padding-right: 0px;
+    padding-left: 0px;
+  }
+
+  .div-block-30901 {
+    width: 100%;
+    margin-top: 20px;
+    justify-content: center;
+  }
+
+  .div-block-30902.f {
+    margin-right: 0px;
+  }
+
+  .div-block-30902.twitter {
+    margin-right: 0px;
+    margin-left: 10px;
+  }
+
+  .div-block-30902.inst {
+    margin-left: 10px;
+  }
+
+  .div-block-30902.twitter {
+    margin-right: 0px;
+    margin-left: 10px;
+  }
+
+  .div-block-30902.inst {
+    margin-left: 10px;
+  }
+
+  .div-block-30902.f {
+    margin-right: 0px;
+  }
+
+  .phone-div {
+    width: 100%;
+    justify-content: center;
+  }
+
+  .link-block-55 {
+    margin-bottom: 40px;
+  }
+
+  .image-32406 {
+    width: 100%;
+  }
+
+  .content-gmail-p {
+    text-align: center;
+  }
+
+  .cnc-footer-section {
+    padding: 40px 10px;
+  }
+
+  .list-phone-link {
+    justify-content: center;
+    align-items: center;
+  }
+
+  .div-block-312617 {
+    display: block;
+  }
+
+  .div-block-312625 {
+    width: 100%;
+  }
+
+  .div-block-312630 {
+    display: none;
+  }
+
+  .div-block-312631 {
+    bottom: -11%;
+    width: 100%;
+    height: auto;
+    padding-right: 10px;
+    padding-left: 10px;
+  }
+
+  .heading-7235 {
+    font-size: 21px;
+    line-height: 25px;
+  }
+
+  .heading-7236 {
+    font-size: 30px;
+    line-height: 40px;
+  }
+
+  .div-block-312632 {
+    flex-direction: column;
+  }
+
+  .heading-7237 {
+    font-size: 21px;
+    line-height: 25px;
+    text-align: center;
+  }
+
+  .paragraph-2207 {
+    text-align: center;
+  }
+
+  .div-block-312637 {
+    -ms-grid-columns: 1fr;
+    grid-template-columns: 1fr;
+  }
+
+  .div-block-312646 {
+    -ms-grid-columns: 1fr 1fr;
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .div-block-312454 {
+    width: 20%;
+    margin-left: 10px;
+  }
+
+  .car1 {
+    width: 100%;
+    margin-right: 0px;
+    margin-bottom: 20px;
+    padding-right: 10px;
+    padding-left: 10px;
+  }
+
+  .car1._2._1 {
+    width: 100%;
+    height: 17vh;
+  }
+
+  .car1._2._1._3 {
+    width: 100%;
+    height: 17vh;
+    padding-top: 10px;
+  }
+
+  .car1._2.first {
+    height: 17vh;
+    padding-top: 10px;
+  }
+
+  .car1._2.first._1 {
+    padding-top: 0px;
+  }
+
+  .contactdiv._123 {
+    width: 100%;
+  }
+
+  .div-block-79 {
+    padding-right: 10px;
+    padding-left: 10px;
+  }
+
+  .link-block-69 {
+    width: 100%;
+  }
+
+  .div-block-80 {
+    margin-right: 0px;
+    margin-left: 0px;
+  }
+
+  .paragraph-2183 {
+    text-align: center;
+  }
+
+  .paragraph-2182 {
+    font-size: 16px;
+    line-height: 24px;
+  }
+
+  .link-block-70 {
+    width: 100%;
+  }
+
+  .heading-7223 {
+    font-size: 30px;
+    line-height: 38px;
+  }
+
+  .div-block-312465 {
+    width: 100%;
+  }
+
+  .div-block-312458 {
+    flex-direction: column;
+  }
+
+  .div-block-159 {
+    width: 100%;
+    padding-left: 0px;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .textarea {
+    width: 100%;
+    min-height: 150px;
+  }
+
+  .btn-_arrow_line {
+    left: -31px;
+    display: block;
+    width: 40px;
+    margin-left: 40px;
+    font-size: 18px;
+  }
+
+  .btn_circle_shaper {
+    z-index: 0;
+  }
+
+  .form-block-3 {
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+  }
+
+  .btn_bg_colour {
+    background-color: #1c4676;
+  }
+
+  .btn_text {
+    font-size: 14px;
+    line-height: 22px;
+  }
+
+  .text-field-7 {
+    width: 100%;
+  }
+
+  .div-block-270 {
+    height: auto;
+  }
+
+  .btn {
+    padding: 15px 40px;
+    font-size: 18px;
+  }
+
+  .circle_of_btn {
+    display: block;
+  }
+
+  .btn_circle_wrapper {
+    left: 114px;
+    font-size: 11px;
+  }
+
+  .div-block-160 {
+    width: 100%;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .text-block-79 {
+    color: #1c4676;
+  }
+
+  .div-block-272 {
+    flex-direction: column;
+  }
+
+  .her0_slider_btn {
+    margin-top: 20px;
+  }
+
+  .her0_slider_btn._1 {
+    width: 100%;
+  }
+
+  .her0_slider_btn._1:hover {
+    width: 100%;
+  }
+
+  .btn_arrow {
+    left: -31px;
+    display: block;
+  }
+
+  .form-3 {
+    padding-right: 0px;
+    padding-left: 0px;
+  }
+
+  .div-block-312650 {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .heading-7239.one {
+    font-size: 40px;
+  }
+
+  .div-block-312651 {
+    top: 5.7%;
+  }
+
+  .image-32443 {
+    width: 100%;
+  }
+
+  .about-div {
+    width: 100%;
+    flex-direction: column-reverse;
+  }
+
+  .paragraph-2209 {
+    text-align: left;
+  }
+
+  .div-block-312654 {
+    width: 100%;
+  }
+
+  .about-content {
+    width: 100%;
+    margin-top: 20px;
+  }
+
+  .about-content.about-main {
+    padding-left: 0px;
+  }
+
+  .image-32444 {
+    display: none;
+  }
+
+  .cnc-service-detail-page {
+    padding-top: 20px;
+    padding-bottom: 40px;
+  }
+
+  .heading-7229 {
+    margin-top: 0px;
+  }
+
+  .cnc-question-section {
+    height: 41vh;
+    margin-bottom: 20px;
+  }
+
+  .div-block-31736 {
+    flex-direction: column;
+  }
+
+  .div-block-31790 {
+    padding-top: 50px;
+  }
+
+  .heading-7213 {
+    font-size: 25px;
+    line-height: 33px;
+  }
+
+  .paragraph-2210 {
+    font-size: 17px;
+    line-height: 25px;
+    text-align: justify;
+  }
+
+  .div-block-312660 {
+    height: auto;
+  }
+
+  .div-block-312661 {
+    -ms-grid-columns: 1fr;
+    grid-template-columns: 1fr;
+  }
+
+  .cnc-industry-section {
+    padding-bottom: 40px;
+  }
+
+  .div-block-312670 {
+    -ms-grid-columns: 1fr;
+    grid-template-columns: 1fr;
+  }
+
+  .image-32599 {
+    padding-top: 0px;
+  }
+
+  .div-block-312673 {
+    margin-top: 0px;
+  }
+
+  .heading-7241 {
+    font-size: 30px;
+    line-height: 40px;
+  }
+
+  .div-block-312674 {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .div-block-312675 {
+    margin-left: 20px;
+  }
+
+  .div-block-312676 {
+    width: 100%;
+    margin-top: 20px;
+  }
+
+  .navigation-dropdown-3.w--open {
+    left: auto;
+  }
+
+  .div-block-312677 {
+    -ms-grid-columns: 1fr;
+    grid-template-columns: 1fr;
+  }
+
+  .cnc-technologysection {
+    height: auto;
+    padding-top: 40px;
+  }
+
+  .cnc-technologysection._1._2 {
+    height: auto;
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }
+
+  .cnc-technologysection._1._3 {
+    padding-bottom: 40px;
+  }
+
+  .heading-7244 {
+    font-size: 25px;
+    line-height: 30px;
+  }
+
+  .mobile-navigation1 {
+    padding-right: 20px;
+    padding-left: 20px;
+  }
+
+  .div-block-312685 {
+    width: 70%;
+  }
+
+  .brand-2 {
+    width: 70%;
+    padding-left: 0px;
+  }
+
+  .container-1288 {
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .image-32611 {
+    margin-top: 10px;
+  }
+
+  .fixed-chat-bolt.hide {
+    bottom: 11%;
+  }
+
+  .text-block-65 {
+    margin-top: 10px;
+  }
+
+  .div-block-312436 {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+
+  .xbutton {
+    position: absolute;
+    left: auto;
+    top: 5%;
+    right: 6%;
+    bottom: auto;
+  }
+
+  .chat-bolt-div {
+    position: fixed;
+    left: auto;
+    top: auto;
+    right: 5%;
+    bottom: 19%;
+    z-index: 2;
+    width: 200px;
+    height: 80px;
+    padding: 11px;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .div-block-312443 {
+    width: 83%;
+  }
+
+  .div-block-312440 {
+    display: flex;
+  }
+
+  .divmainclass {
+    margin-right: auto;
+    margin-left: auto;
+    -ms-grid-columns: 1fr;
+    grid-template-columns: 1fr;
+  }
+
+  .div-block-312441 {
+    display: block;
+    text-align: center;
+  }
+
+  .slidersection._147 {
+    height: auto;
+    padding-top: 60px;
+    padding-bottom: 40px;
+  }
+
+  .div-block-312439 {
+    width: 100%;
+    padding-right: 0px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .div-block-312439._1236 {
+    margin-right: 0px;
+  }
+
+  .div-block-312689 {
+    padding-right: 0px;
+  }
+
+  .div-block-312691 {
+    width: 100%;
+  }
+
+  .div-block-312702 {
+    left: 0px;
+    width: 300px;
+  }
+
+  .div-block-312703 {
+    left: 0px;
+    top: 41px;
+    width: 100%;
+  }
+
+  .link-142 {
+    margin-top: 10px;
+  }
+
+  .breadcrumb-sec {
+    height: 30vh;
+    background-image: url('../images/bd.png'), linear-gradient(76deg, #1c1c7b 26%, #00cde5);
+    background-position: -77px 2px, 0px 0px;
+  }
+
+  .brand-3 {
+    width: 60%;
+  }
+
+  .text-block-15613 {
+    margin-top: 0px;
+    line-height: 30px;
+    text-align: center;
+  }
+
+  .cnc-question-section-2 {
+    height: 41vh;
+    margin-bottom: 20px;
+    padding-top: 0px;
+  }
+
+  .brand-4 {
+    width: 70%;
+  }
+
+  .heading-3 {
+    font-size: 25px;
+    line-height: 30px;
+    text-align: center;
+  }
+
+  .link-block-48.w--current {
+    width: 70%;
+  }
+
+  .div-block-312750 {
+    width: 100%;
+    margin-top: 10px;
+  }
+
+  .div-block-312751 {
+    padding-top: 50px;
+  }
+
+  .div-block-312752 {
+    flex-direction: column;
+  }
+
+  .div-block-312754 {
+    width: 310px;
+  }
+
+  .section-7 {
+    height: 63vh;
+    padding-top: 40px;
+  }
+
+  .div-block-312755 {
+    width: 100%;
+    margin-top: 20px;
+    justify-content: center;
+  }
+}
+
+#w-node-a0f8cc02-281e-233d-2bf6-fb7d2ca82118-112eacc3 {
+  -ms-grid-column: span 2;
+  grid-column-start: span 2;
+  -ms-grid-column-span: 2;
+  grid-column-end: span 2;
+  -ms-grid-row: span 1;
+  grid-row-start: span 1;
+  -ms-grid-row-span: 1;
+  grid-row-end: span 1;
+}
+
+#w-node-cf6fb046-03b9-adec-3eba-08bd42a9b953-112eacc3 {
+  -ms-grid-row: span 1;
+  grid-row-start: span 1;
+  -ms-grid-row-span: 1;
+  grid-row-end: span 1;
+  -ms-grid-column: span 2;
+  grid-column-start: span 2;
+  -ms-grid-column-span: 2;
+  grid-column-end: span 2;
+}
+
+#w-node-_3f9c3354-f611-7cd1-290f-59157f6f591f-112eacc3 {
+  -ms-grid-column: span 2;
+  grid-column-start: span 2;
+  -ms-grid-column-span: 2;
+  grid-column-end: span 2;
+  -ms-grid-row: span 1;
+  grid-row-start: span 1;
+  -ms-grid-row-span: 1;
+  grid-row-end: span 1;
+}
+
+#w-node-_3f9c3354-f611-7cd1-290f-59157f6f5920-112eacc3 {
+  -ms-grid-row: span 1;
+  grid-row-start: span 1;
+  -ms-grid-row-span: 1;
+  grid-row-end: span 1;
+  -ms-grid-column: span 2;
+  grid-column-start: span 2;
+  -ms-grid-column-span: 2;
+  grid-column-end: span 2;
+}
+
+#w-node-_512cdbf0-5591-fe13-90f3-520caffda168-112eacc3 {
+  -ms-grid-column: span 2;
+  grid-column-start: span 2;
+  -ms-grid-column-span: 2;
+  grid-column-end: span 2;
+  -ms-grid-row: span 1;
+  grid-row-start: span 1;
+  -ms-grid-row-span: 1;
+  grid-row-end: span 1;
+}
+
+#w-node-_512cdbf0-5591-fe13-90f3-520caffda169-112eacc3 {
+  -ms-grid-row: span 1;
+  grid-row-start: span 1;
+  -ms-grid-row-span: 1;
+  grid-row-end: span 1;
+  -ms-grid-column: span 2;
+  grid-column-start: span 2;
+  -ms-grid-column-span: 2;
+  grid-column-end: span 2;
+}
+
+#w-node-_727315f7-aa3c-2e30-946e-5e13cfee7191-112eacc3 {
+  -ms-grid-column: span 2;
+  grid-column-start: span 2;
+  -ms-grid-column-span: 2;
+  grid-column-end: span 2;
+  -ms-grid-row: span 1;
+  grid-row-start: span 1;
+  -ms-grid-row-span: 1;
+  grid-row-end: span 1;
+}
+
+#w-node-_727315f7-aa3c-2e30-946e-5e13cfee7192-112eacc3 {
+  -ms-grid-row: span 1;
+  grid-row-start: span 1;
+  -ms-grid-row-span: 1;
+  grid-row-end: span 1;
+  -ms-grid-column: span 2;
+  grid-column-start: span 2;
+  -ms-grid-column-span: 2;
+  grid-column-end: span 2;
+}
+
+#w-node-d8ebfb69-02a6-2f42-4dd9-eb7614fbda49-112eacc3 {
+  -ms-grid-column: span 2;
+  grid-column-start: span 2;
+  -ms-grid-column-span: 2;
+  grid-column-end: span 2;
+  -ms-grid-row: span 1;
+  grid-row-start: span 1;
+  -ms-grid-row-span: 1;
+  grid-row-end: span 1;
+}
+
+#w-node-d8ebfb69-02a6-2f42-4dd9-eb7614fbda4a-112eacc3 {
+  -ms-grid-row: span 1;
+  grid-row-start: span 1;
+  -ms-grid-row-span: 1;
+  grid-row-end: span 1;
+  -ms-grid-column: span 2;
+  grid-column-start: span 2;
+  -ms-grid-column-span: 2;
+  grid-column-end: span 2;
+}
+
+#w-node-fd144007-eacc-53a3-1a0b-2d84f155f2c4-112eacc3 {
+  -ms-grid-column: span 2;
+  grid-column-start: span 2;
+  -ms-grid-column-span: 2;
+  grid-column-end: span 2;
+  -ms-grid-row: span 1;
+  grid-row-start: span 1;
+  -ms-grid-row-span: 1;
+  grid-row-end: span 1;
+}
+
+#w-node-fd144007-eacc-53a3-1a0b-2d84f155f2c5-112eacc3 {
+  -ms-grid-row: span 1;
+  grid-row-start: span 1;
+  -ms-grid-row-span: 1;
+  grid-row-end: span 1;
+  -ms-grid-column: span 2;
+  grid-column-start: span 2;
+  -ms-grid-column-span: 2;
+  grid-column-end: span 2;
+}
+
+#w-node-c3bcf2ce-6170-34cf-7ca9-c2c0defc1b38-112eacc3 {
+  -ms-grid-column: span 2;
+  grid-column-start: span 2;
+  -ms-grid-column-span: 2;
+  grid-column-end: span 2;
+  -ms-grid-row: span 1;
+  grid-row-start: span 1;
+  -ms-grid-row-span: 1;
+  grid-row-end: span 1;
+}
+
+#w-node-c3bcf2ce-6170-34cf-7ca9-c2c0defc1b39-112eacc3 {
+  -ms-grid-row: span 1;
+  grid-row-start: span 1;
+  -ms-grid-row-span: 1;
+  grid-row-end: span 1;
+  -ms-grid-column: span 2;
+  grid-column-start: span 2;
+  -ms-grid-column-span: 2;
+  grid-column-end: span 2;
+}
+
+#w-node-beb9a1ee-9e06-91d6-b697-2adc53669c6a-112eacc3 {
+  -ms-grid-column: span 2;
+  grid-column-start: span 2;
+  -ms-grid-column-span: 2;
+  grid-column-end: span 2;
+  -ms-grid-row: span 1;
+  grid-row-start: span 1;
+  -ms-grid-row-span: 1;
+  grid-row-end: span 1;
+}
+
+#w-node-beb9a1ee-9e06-91d6-b697-2adc53669c6b-112eacc3 {
+  -ms-grid-row: span 1;
+  grid-row-start: span 1;
+  -ms-grid-row-span: 1;
+  grid-row-end: span 1;
+  -ms-grid-column: span 2;
+  grid-column-start: span 2;
+  -ms-grid-column-span: 2;
+  grid-column-end: span 2;
+}
+
+#w-node-_703a78e4-9fc6-9fc0-cbd1-9db37375176c-112eacc3 {
+  -ms-grid-column: span 2;
+  grid-column-start: span 2;
+  -ms-grid-column-span: 2;
+  grid-column-end: span 2;
+  -ms-grid-row: span 1;
+  grid-row-start: span 1;
+  -ms-grid-row-span: 1;
+  grid-row-end: span 1;
+}
+
+#w-node-_703a78e4-9fc6-9fc0-cbd1-9db37375176d-112eacc3 {
+  -ms-grid-row: span 1;
+  grid-row-start: span 1;
+  -ms-grid-row-span: 1;
+  grid-row-end: span 1;
+  -ms-grid-column: span 2;
+  grid-column-start: span 2;
+  -ms-grid-column-span: 2;
+  grid-column-end: span 2;
+}
+
+#w-node-_7782ce6f-59a3-daef-8fc7-aa09a1be608a-112eacc3 {
+  -ms-grid-column: span 2;
+  grid-column-start: span 2;
+  -ms-grid-column-span: 2;
+  grid-column-end: span 2;
+  -ms-grid-row: span 1;
+  grid-row-start: span 1;
+  -ms-grid-row-span: 1;
+  grid-row-end: span 1;
+}
+
+#w-node-_7782ce6f-59a3-daef-8fc7-aa09a1be608b-112eacc3 {
+  -ms-grid-row: span 1;
+  grid-row-start: span 1;
+  -ms-grid-row-span: 1;
+  grid-row-end: span 1;
+  -ms-grid-column: span 2;
+  grid-column-start: span 2;
+  -ms-grid-column-span: 2;
+  grid-column-end: span 2;
+}
+
+#w-node-_59d99567-120e-5342-e2df-7b86c598f80e-112eacc3 {
+  -ms-grid-column: span 2;
+  grid-column-start: span 2;
+  -ms-grid-column-span: 2;
+  grid-column-end: span 2;
+  -ms-grid-row: span 1;
+  grid-row-start: span 1;
+  -ms-grid-row-span: 1;
+  grid-row-end: span 1;
+}
+
+#w-node-_59d99567-120e-5342-e2df-7b86c598f80f-112eacc3 {
+  -ms-grid-row: span 1;
+  grid-row-start: span 1;
+  -ms-grid-row-span: 1;
+  grid-row-end: span 1;
+  -ms-grid-column: span 2;
+  grid-column-start: span 2;
+  -ms-grid-column-span: 2;
+  grid-column-end: span 2;
+}
+
+#w-node-a2d7829b-be2a-e6d0-7220-b7709a099c0a-112eacc3 {
+  -ms-grid-column: span 2;
+  grid-column-start: span 2;
+  -ms-grid-column-span: 2;
+  grid-column-end: span 2;
+  -ms-grid-row: span 1;
+  grid-row-start: span 1;
+  -ms-grid-row-span: 1;
+  grid-row-end: span 1;
+}
+
+#w-node-a2d7829b-be2a-e6d0-7220-b7709a099c0b-112eacc3 {
+  -ms-grid-row: span 1;
+  grid-row-start: span 1;
+  -ms-grid-row-span: 1;
+  grid-row-end: span 1;
+  -ms-grid-column: span 2;
+  grid-column-start: span 2;
+  -ms-grid-column-span: 2;
+  grid-column-end: span 2;
+}
+
+#w-node-_2574aacb-616a-5a07-92fa-aaf9ae8b887f-0b43e4e2 {
+  -ms-grid-row: span 1;
+  grid-row-start: span 1;
+  -ms-grid-row-span: 1;
+  grid-row-end: span 1;
+  -ms-grid-column: span 1;
+  grid-column-start: span 1;
+  -ms-grid-column-span: 1;
+  grid-column-end: span 1;
+}
+
+#w-node-ad32f599-1d3a-3240-90d3-35a4f9d7cccf-0b43e4e2 {
+  -ms-grid-column: span 1;
+  grid-column-start: span 1;
+  -ms-grid-column-span: 1;
+  grid-column-end: span 1;
+  -ms-grid-row: span 2;
+  grid-row-start: span 2;
+  -ms-grid-row-span: 2;
+  grid-row-end: span 2;
+}
+
+#w-node-_4f9b2d4c-4ef3-fd6d-37bb-658cf447d9c3-0b43e4e2 {
+  -ms-grid-column: span 1;
+  grid-column-start: span 1;
+  -ms-grid-column-span: 1;
+  grid-column-end: span 1;
+  -ms-grid-row: span 2;
+  grid-row-start: span 2;
+  -ms-grid-row-span: 2;
+  grid-row-end: span 2;
+}
+
+@font-face {
+  font-family: 'Fa solid 900';
+  src: url('../fonts/fa-solid-900.woff2') format('woff2'), url('../fonts/fa-solid-900.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Fa brands 400';
+  src: url('../fonts/fa-brands-400.woff2') format('woff2'), url('../fonts/fa-brands-400.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Fa v4compatibility';
+  src: url('../fonts/fa-v4compatibility.woff2') format('woff2'), url('../fonts/fa-v4compatibility.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Fa 400';
+  src: url('../fonts/fa-regular-400.woff2') format('woff2'), url('../fonts/fa-regular-400.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
